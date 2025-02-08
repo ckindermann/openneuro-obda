@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Three Panel Folder Tree with Copy Button</title>
+  <title>Ontology-Based Data Access for OpenNeuro</title>
   <style>
     /* Container for the three panels */
     #container {
@@ -67,7 +67,7 @@
 </head>
 <body>
   <div id="container">
-    <!-- Left Panel: Dropdown and Folder Tree -->
+    <!-- Left Panel: Dropdown and Ontology Tree -->
     <div id="left-panel" class="panel">
       <h3>Select Tree</h3>
       <select id="tree-selector">
@@ -75,16 +75,16 @@
           <option value="{{ tree_name }}">{{ tree_name }}</option>
         {% endfor %}
       </select>
-      <h3>Folders</h3>
+      <h3>Ontology</h3>
       <ul id="tree-container">
         <!-- Tree will be dynamically injected here -->
       </ul>
     </div>
 
-    <!-- Middle Panel: Folder Contents -->
+    <!-- Middle Panel: Datasets -->
     <div id="middle-panel" class="panel">
-      <h3>Folder Contents</h3>
-      <ul id="folder-contents">
+      <h3>Datasets</h3>
+      <ul id="datasets">
         <li>Select a folder to view its contents.</li>
       </ul>
     </div>
@@ -162,7 +162,7 @@
       container.appendChild(ul);
 
       // Clear folder contents and dataset details panels.
-      document.getElementById("folder-contents").innerHTML =
+      document.getElementById("datasets").innerHTML =
         "<li>Select a folder to view its contents.</li>";
       document.getElementById("dataset-details").innerHTML =
         "<p>Select a dataset from the folder contents.</p>";
@@ -172,7 +172,7 @@
      * Updates the middle panel with the 'info' items for a given folder node.
      */
     function updateFolderContents(node) {
-      var contentsUl = document.getElementById("folder-contents");
+      var contentsUl = document.getElementById("datasets");
       contentsUl.innerHTML = ""; // Clear previous contents.
       if (node.info && node.info.length > 0) {
         node.info.forEach(function(dataset) {
@@ -184,7 +184,7 @@
           span.addEventListener("click", function(e) {
             e.stopPropagation();
             // Remove highlight from any previously selected dataset labels.
-            var fileLabels = document.querySelectorAll("#folder-contents .dataset-label");
+            var fileLabels = document.querySelectorAll("#datasets .dataset-label");
             fileLabels.forEach(function(label) {
               label.classList.remove("highlight");
             });
