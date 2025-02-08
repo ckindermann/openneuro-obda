@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Three Panel Folder Tree with Copy Button</title>
+  <style>
+    /* Container for the three panels */
+    #container {
+      display: flex;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+    .panel {
+      border: 1px solid #ccc;
+      padding: 10px;
+      overflow-y: auto;
+    }
+    #left-panel {
+      width: 25%;
+      background-color: #f9f9f9;
+    }
+    #middle-panel {
+      width: 35%;
+      background-color: #fff;
+    }
+    #right-panel {
+      width: 40%;
+      background-color: #f1f1f1;
+    }
+    /* Styling for the tree and its nodes */
+    ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+    li {
+      margin: 4px 0;
+    }
+    .folder-label {
+      cursor: pointer;
+      padding: 2px 4px;
+      display: inline-block;
+    }
+    .folder-label:hover {
+      background-color: #e0e0e0;
+    }
+    .highlight {
+      background-color: #cce5ff;
+    }
+    .file-label {
+      cursor: pointer;
+      color: blue;
+      text-decoration: underline;
+    }
+    /* Dropdown styling */
+    #tree-selector {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    /* Styling for the copy button */
+    #copy-btn {
+      margin-left: 10px;
+      padding: 2px 6px;
+      font-size: 0.9em;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <!-- Left Panel: Dropdown and Folder Tree -->
+    <div id="left-panel" class="panel">
+      <h3>Select Tree</h3>
+      <select id="tree-selector">
+        {% for tree_name in trees.keys() %}
+          <option value="{{ tree_name }}">{{ tree_name }}</option>
+        {% endfor %}
+      </select>
+      <h3>Folders</h3>
+      <ul id="tree-container">
+        <!-- Tree will be dynamically injected here -->
+      </ul>
+    </div>
+
+    <!-- Middle Panel: Folder Contents -->
+    <div id="middle-panel" class="panel">
+      <h3>Folder Contents</h3>
+      <ul id="folder-contents">
+        <li>Select a folder to view its contents.</li>
+      </ul>
+    </div>
+
+    <!-- Right Panel: File Details -->
+    <div id="right-panel" class="panel">
+      <h3>File Details</h3>
+      <div id="file-details">
+        <p>Select a file from the folder contents.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Pass all trees data as a JavaScript variable -->
+  <script>
+    var allTrees = {{ trees|tojson }};
+    var currentTree = null;
+
+    /**
+     * Recursively builds a tree structure from a JSON node.
+     * Returns a DOM <li> element representing the node.
+     */
+    function buildTree(node) {
+      var li = document.createElement("li");
+      li.setAttribute("data-node-id", node.id);
+      
+      var span = document.createElement("span");
+      span.classList.add("folder-label");
+      span.textContent = node.label;
+      li.appendChild(span);
+
+      // Attach click event to the folder label.
+      span.addEventListener("click", function(e) {
+        e.stopPropagation();
+        // Remove highlight from all folder nodes.
+        var allLi = document.querySelectorAll("#tree-container li");
+        allLi.forEach(function(item) {
+          item.classList.remove("highlight");
+        });
+        li.classList.add("highlight");
+
+        // Toggle expand/collapse if this node has children.
+        var childUl = li.querySelector("ul");
+        if (childUl) {
+          if (childUl.style.display === "none" || childUl.style.display === "") {
+            childUl.style.display = "block";
+          } else {
+            childUl.style.display = "none";
+          }
+        }
+        // Update folder contents.
+        updateFolderContents(node);
+      });
+
+      if (node.children && node.children.length > 0) {
+        var ul = document.createElement("ul");
+        ul.style.display = "none"; // Initially collapse children.
+        node.children.forEach(function(child) {
+          ul.appendChild(buildTree(child));
+        });
+        li.appendChild(ul);
+      }
+      return li;
+    }
+
+    /**
+     * Renders the entire tree in the left panel.
+     */
+    function renderTree(tree) {
+      currentTree = tree;
+      var container = document.getElementById("tree-container");
+      container.innerHTML = ""; // Clear previous tree.
+      var ul = document.createElement("ul");
+      ul.appendChild(buildTree(tree));
+      container.appendChild(ul);
+
+      // Clear folder contents and file details panels.
+      document.getElementById("folder-contents").innerHTML =
+        "<li>Select a folder to view its contents.</li>";
+      document.getElementById("file-details").innerHTML =
+        "<p>Select a file from the folder contents.</p>";
+    }
+
+    /**
+     * Updates the middle panel with the 'info' items for a given folder node.
+     */
+    function updateFolderContents(node) {
+      var contentsUl = document.getElementById("folder-contents");
+      contentsUl.innerHTML = ""; // Clear previous contents.
+      if (node.info && node.info.length > 0) {
+        node.info.forEach(function(file) {
+          var li = document.createElement("li");
+          var span = document.createElement("span");
+          span.className = "file-label";
+          span.textContent = file.label;
+          // When clicking a file label, update the right panel and highlight the clicked label.
+          span.addEventListener("click", function(e) {
+            e.stopPropagation();
+            // Remove highlight from any previously selected file labels.
+            var fileLabels = document.querySelectorAll("#folder-contents .file-label");
+            fileLabels.forEach(function(label) {
+              label.classList.remove("highlight");
+            });
+            this.classList.add("highlight");
+            updateFileDetails(file);
+          });
+          li.appendChild(span);
+          contentsUl.appendChild(li);
+        });
+      } else {
+        var li = document.createElement("li");
+        li.textContent = "No contents in this folder.";
+        contentsUl.appendChild(li);
+      }
+    }
+
+    /**
+     * Updates the right panel with the selected file's details.
+     * Adds a "Copy" button next to the destination that copies the path to the clipboard.
+     * Instead of showing a pop-up, the button text temporarily changes to "Copied!".
+     */
+    function updateFileDetails(file) {
+      var detailsDiv = document.getElementById("file-details");
+      detailsDiv.innerHTML = "<p><strong>Label:</strong> " + file.label + "</p>" +
+                             "<p><strong>Destination:</strong> " + file.destination +
+                             " <button id='copy-btn'>Copy</button></p>";
+
+      document.getElementById("copy-btn").addEventListener("click", function() {
+        navigator.clipboard.writeText(file.destination)
+          .then(function() {
+            // Change the button text to "Copied!" temporarily.
+            var btn = document.getElementById("copy-btn");
+            var originalText = btn.textContent;
+            btn.textContent = "Copied!";
+            setTimeout(function(){
+              btn.textContent = originalText;
+            }, 2000);
+          })
+          .catch(function(err) {
+            console.error("Error copying text: ", err);
+          });
+      });
+    }
+
+    // When the DOM is fully loaded, render the initial tree and attach dropdown listeners.
+    document.addEventListener("DOMContentLoaded", function() {
+      var treeSelector = document.getElementById("tree-selector");
+      // Render the tree based on the initial dropdown selection.
+      renderTree(allTrees[treeSelector.value]);
+
+      // Listen for changes in the dropdown.
+      treeSelector.addEventListener("change", function() {
+        var selectedTreeName = this.value;
+        renderTree(allTrees[selectedTreeName]);
+      });
+    });
+  </script>
+</body>
+</html>
