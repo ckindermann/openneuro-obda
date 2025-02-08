@@ -46,7 +46,7 @@
     .highlight {
       background-color: #cce5ff;
     }
-    .file-label {
+    .element-label {
       cursor: pointer;
       color: blue;
       text-decoration: underline;
@@ -92,8 +92,8 @@
     <!-- Right Panel: File Details -->
     <div id="right-panel" class="panel">
       <h3>File Details</h3>
-      <div id="file-details">
-        <p>Select a file from the folder contents.</p>
+      <div id="element-details">
+        <p>Select a element from the folder contents.</p>
       </div>
     </div>
   </div>
@@ -161,11 +161,11 @@
       ul.appendChild(buildTree(tree));
       container.appendChild(ul);
 
-      // Clear folder contents and file details panels.
+      // Clear folder contents and element details panels.
       document.getElementById("folder-contents").innerHTML =
         "<li>Select a folder to view its contents.</li>";
-      document.getElementById("file-details").innerHTML =
-        "<p>Select a file from the folder contents.</p>";
+      document.getElementById("element-details").innerHTML =
+        "<p>Select a element from the folder contents.</p>";
     }
 
     /**
@@ -175,21 +175,21 @@
       var contentsUl = document.getElementById("folder-contents");
       contentsUl.innerHTML = ""; // Clear previous contents.
       if (node.info && node.info.length > 0) {
-        node.info.forEach(function(file) {
+        node.info.forEach(function(element) {
           var li = document.createElement("li");
           var span = document.createElement("span");
-          span.className = "file-label";
-          span.textContent = file.label;
-          // When clicking a file label, update the right panel and highlight the clicked label.
+          span.className = "element-label";
+          span.textContent = element.label;
+          // When clicking a element label, update the right panel and highlight the clicked label.
           span.addEventListener("click", function(e) {
             e.stopPropagation();
-            // Remove highlight from any previously selected file labels.
-            var fileLabels = document.querySelectorAll("#folder-contents .file-label");
+            // Remove highlight from any previously selected element labels.
+            var fileLabels = document.querySelectorAll("#folder-contents .element-label");
             fileLabels.forEach(function(label) {
               label.classList.remove("highlight");
             });
             this.classList.add("highlight");
-            updateFileDetails(file);
+            updateFileDetails(element);
           });
           li.appendChild(span);
           contentsUl.appendChild(li);
@@ -202,18 +202,18 @@
     }
 
     /**
-     * Updates the right panel with the selected file's details.
+     * Updates the right panel with the selected element's details.
      * Adds a "Copy" button next to the destination that copies the path to the clipboard.
      * Instead of showing a pop-up, the button text temporarily changes to "Copied!".
      */
-    function updateFileDetails(file) {
-      var detailsDiv = document.getElementById("file-details");
-      detailsDiv.innerHTML = "<p><strong>Label:</strong> " + file.label + "</p>" +
-                             "<p><strong>Destination:</strong> " + file.destination +
+    function updateFileDetails(element) {
+      var detailsDiv = document.getElementById("element-details");
+      detailsDiv.innerHTML = "<p><strong>Label:</strong> " + element.label + "</p>" +
+                             "<p><strong>Destination:</strong> " + element.destination +
                              " <button id='copy-btn'>Copy</button></p>";
 
       document.getElementById("copy-btn").addEventListener("click", function() {
-        navigator.clipboard.writeText(file.destination)
+        navigator.clipboard.writeText(element.destination)
           .then(function() {
             // Change the button text to "Copied!" temporarily.
             var btn = document.getElementById("copy-btn");
