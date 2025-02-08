@@ -46,7 +46,7 @@
     .highlight {
       background-color: #cce5ff;
     }
-    .element-label {
+    .dataset-label {
       cursor: pointer;
       color: blue;
       text-decoration: underline;
@@ -91,9 +91,9 @@
 
     <!-- Right Panel: File Details -->
     <div id="right-panel" class="panel">
-      <h3>File Details</h3>
-      <div id="element-details">
-        <p>Select a element from the folder contents.</p>
+      <h3>Dataset Details</h3>
+      <div id="dataset-details">
+        <p>Select a dataset from the folder contents.</p>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@
 
     /**
      * Recursively builds a tree structure from a JSON node.
-     * Returns a DOM <li> element representing the node.
+     * Returns a DOM <li> dataset representing the node.
      */
     function buildTree(node) {
       var li = document.createElement("li");
@@ -161,11 +161,11 @@
       ul.appendChild(buildTree(tree));
       container.appendChild(ul);
 
-      // Clear folder contents and element details panels.
+      // Clear folder contents and dataset details panels.
       document.getElementById("folder-contents").innerHTML =
         "<li>Select a folder to view its contents.</li>";
-      document.getElementById("element-details").innerHTML =
-        "<p>Select a element from the folder contents.</p>";
+      document.getElementById("dataset-details").innerHTML =
+        "<p>Select a dataset from the folder contents.</p>";
     }
 
     /**
@@ -175,21 +175,21 @@
       var contentsUl = document.getElementById("folder-contents");
       contentsUl.innerHTML = ""; // Clear previous contents.
       if (node.info && node.info.length > 0) {
-        node.info.forEach(function(element) {
+        node.info.forEach(function(dataset) {
           var li = document.createElement("li");
           var span = document.createElement("span");
-          span.className = "element-label";
-          span.textContent = element.label;
-          // When clicking a element label, update the right panel and highlight the clicked label.
+          span.className = "dataset-label";
+          span.textContent = dataset.label;
+          // When clicking a dataset label, update the right panel and highlight the clicked label.
           span.addEventListener("click", function(e) {
             e.stopPropagation();
-            // Remove highlight from any previously selected element labels.
-            var fileLabels = document.querySelectorAll("#folder-contents .element-label");
+            // Remove highlight from any previously selected dataset labels.
+            var fileLabels = document.querySelectorAll("#folder-contents .dataset-label");
             fileLabels.forEach(function(label) {
               label.classList.remove("highlight");
             });
             this.classList.add("highlight");
-            updateFileDetails(element);
+            updateFileDetails(dataset);
           });
           li.appendChild(span);
           contentsUl.appendChild(li);
@@ -202,18 +202,18 @@
     }
 
     /**
-     * Updates the right panel with the selected element's details.
+     * Updates the right panel with the selected dataset's details.
      * Adds a "Copy" button next to the destination that copies the path to the clipboard.
      * Instead of showing a pop-up, the button text temporarily changes to "Copied!".
      */
-    function updateFileDetails(element) {
-      var detailsDiv = document.getElementById("element-details");
-      detailsDiv.innerHTML = "<p><strong>Label:</strong> " + element.label + "</p>" +
-                             "<p><strong>Destination:</strong> " + element.destination +
+    function updateFileDetails(dataset) {
+      var detailsDiv = document.getElementById("dataset-details");
+      detailsDiv.innerHTML = "<p><strong>Label:</strong> " + dataset.label + "</p>" +
+                             "<p><strong>Destination:</strong> " + dataset.destination +
                              " <button id='copy-btn'>Copy</button></p>";
 
       document.getElementById("copy-btn").addEventListener("click", function() {
-        navigator.clipboard.writeText(element.destination)
+        navigator.clipboard.writeText(dataset.destination)
           .then(function() {
             // Change the button text to "Copied!" temporarily.
             var btn = document.getElementById("copy-btn");
