@@ -69,13 +69,13 @@
   <div id="container">
     <!-- Left Panel: Dropdown and Ontology Tree -->
     <div id="left-panel" class="panel">
-      <h3>Select Tree</h3>
+      <h3>Select Ontology</h3>
       <select id="tree-selector">
         {% for tree_name in trees.keys() %}
           <option value="{{ tree_name }}">{{ tree_name }}</option>
         {% endfor %}
       </select>
-      <h3>Ontology</h3>
+      <h3>Ontology Concept Hierarchy</h3>
       <ul id="tree-container">
         <!-- Tree will be dynamically injected here -->
       </ul>
