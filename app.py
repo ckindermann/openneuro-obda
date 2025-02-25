@@ -20,6 +20,7 @@ def assign_ids(node, next_id=0):
 # Tree 1: Sample tree.
 tree1 = {
     "label": "Root",
+    "iri": "http://example.com/root",
     "info": [],
     "children": [
         {
@@ -104,11 +105,21 @@ tree3 = {
 }
 assign_ids(tree3)
 
+tree4 = json.load(open("trees/brain.json"))
+assign_ids(tree4)
+
+tree5 = json.load(open("trees/disorder.json"))
+assign_ids(tree5)
+
+tree6 = json.load(open("trees/symptom.json"))
+assign_ids(tree6)
+
+
 # Bundle the trees in a dictionary.
 trees = {
-    "Tree 1": tree1,
-    "Tree 2": tree2,
-    "Tree 3": tree3
+    "Brain Structures (FMA)": tree4,
+    "Disorder (DOID)": tree5,
+    "Symptom (SYMP)": tree6
 }
 
 @app.route('/')
