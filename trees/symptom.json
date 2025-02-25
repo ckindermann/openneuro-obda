@@ -1,0 +1,1321 @@
+{
+  "label": "symptom",
+  "iri": "SYMP:0000462",
+  "info": [
+    {
+      "label": "ds003800",
+      "destination": "https://openneuro.org/datasets/ds003800"
+    },
+    {
+      "label": "ds003805",
+      "destination": "https://openneuro.org/datasets/ds003805"
+    },
+    {
+      "label": "ds003799",
+      "destination": "https://openneuro.org/datasets/ds003799"
+    },
+    {
+      "label": "ds004101",
+      "destination": "https://openneuro.org/datasets/ds004101"
+    },
+    {
+      "label": "ds001747",
+      "destination": "https://openneuro.org/datasets/ds001747"
+    },
+    {
+      "label": "ds003701",
+      "destination": "https://openneuro.org/datasets/ds003701"
+    },
+    {
+      "label": "ds002320",
+      "destination": "https://openneuro.org/datasets/ds002320"
+    },
+    {
+      "label": "ds004302",
+      "destination": "https://openneuro.org/datasets/ds004302"
+    },
+    {
+      "label": "ds003509",
+      "destination": "https://openneuro.org/datasets/ds003509"
+    },
+    {
+      "label": "ds003490",
+      "destination": "https://openneuro.org/datasets/ds003490"
+    },
+    {
+      "label": "ds003506",
+      "destination": "https://openneuro.org/datasets/ds003506"
+    },
+    {
+      "label": "ds004305",
+      "destination": "https://openneuro.org/datasets/ds004305"
+    },
+    {
+      "label": "ds004173",
+      "destination": "https://openneuro.org/datasets/ds004173"
+    },
+    {
+      "label": "ds000256",
+      "destination": "https://openneuro.org/datasets/ds000256"
+    },
+    {
+      "label": "ds004332",
+      "destination": "https://openneuro.org/datasets/ds004332"
+    },
+    {
+      "label": "ds004554",
+      "destination": "https://openneuro.org/datasets/ds004554"
+    },
+    {
+      "label": "ds001890",
+      "destination": "https://openneuro.org/datasets/ds001890"
+    },
+    {
+      "label": "ds004693",
+      "destination": "https://openneuro.org/datasets/ds004693"
+    },
+    {
+      "label": "ds004301",
+      "destination": "https://openneuro.org/datasets/ds004301"
+    },
+    {
+      "label": "ds004640",
+      "destination": "https://openneuro.org/datasets/ds004640"
+    },
+    {
+      "label": "ds003754",
+      "destination": "https://openneuro.org/datasets/ds003754"
+    },
+    {
+      "label": "ds000171",
+      "destination": "https://openneuro.org/datasets/ds000171"
+    },
+    {
+      "label": "ds001814",
+      "destination": "https://openneuro.org/datasets/ds001814"
+    },
+    {
+      "label": "ds004840",
+      "destination": "https://openneuro.org/datasets/ds004840"
+    },
+    {
+      "label": "ds004711",
+      "destination": "https://openneuro.org/datasets/ds004711"
+    },
+    {
+      "label": "ds002242",
+      "destination": "https://openneuro.org/datasets/ds002242"
+    },
+    {
+      "label": "ds003789",
+      "destination": "https://openneuro.org/datasets/ds003789"
+    },
+    {
+      "label": "ds003721",
+      "destination": "https://openneuro.org/datasets/ds003721"
+    },
+    {
+      "label": "ds004261",
+      "destination": "https://openneuro.org/datasets/ds004261"
+    },
+    {
+      "label": "ds004504",
+      "destination": "https://openneuro.org/datasets/ds004504"
+    },
+    {
+      "label": "ds003569",
+      "destination": "https://openneuro.org/datasets/ds003569"
+    },
+    {
+      "label": "ds004122",
+      "destination": "https://openneuro.org/datasets/ds004122"
+    },
+    {
+      "label": "ds003643",
+      "destination": "https://openneuro.org/datasets/ds003643"
+    },
+    {
+      "label": "ds003791",
+      "destination": "https://openneuro.org/datasets/ds003791"
+    },
+    {
+      "label": "ds004123",
+      "destination": "https://openneuro.org/datasets/ds004123"
+    },
+    {
+      "label": "ds004120",
+      "destination": "https://openneuro.org/datasets/ds004120"
+    },
+    {
+      "label": "ds004121",
+      "destination": "https://openneuro.org/datasets/ds004121"
+    },
+    {
+      "label": "ds004118",
+      "destination": "https://openneuro.org/datasets/ds004118"
+    },
+    {
+      "label": "ds004119",
+      "destination": "https://openneuro.org/datasets/ds004119"
+    },
+    {
+      "label": "ds004106",
+      "destination": "https://openneuro.org/datasets/ds004106"
+    },
+    {
+      "label": "ds004105",
+      "destination": "https://openneuro.org/datasets/ds004105"
+    },
+    {
+      "label": "ds003670",
+      "destination": "https://openneuro.org/datasets/ds003670"
+    },
+    {
+      "label": "ds003126",
+      "destination": "https://openneuro.org/datasets/ds003126"
+    },
+    {
+      "label": "ds002236",
+      "destination": "https://openneuro.org/datasets/ds002236"
+    },
+    {
+      "label": "ds003602",
+      "destination": "https://openneuro.org/datasets/ds003602"
+    },
+    {
+      "label": "ds002185",
+      "destination": "https://openneuro.org/datasets/ds002185"
+    },
+    {
+      "label": "ds003468",
+      "destination": "https://openneuro.org/datasets/ds003468"
+    },
+    {
+      "label": "ds003801",
+      "destination": "https://openneuro.org/datasets/ds003801"
+    },
+    {
+      "label": "ds002687",
+      "destination": "https://openneuro.org/datasets/ds002687"
+    },
+    {
+      "label": "ds002424",
+      "destination": "https://openneuro.org/datasets/ds002424"
+    },
+    {
+      "label": "ds004196",
+      "destination": "https://openneuro.org/datasets/ds004196"
+    },
+    {
+      "label": "ds004199",
+      "destination": "https://openneuro.org/datasets/ds004199"
+    },
+    {
+      "label": "ds002799",
+      "destination": "https://openneuro.org/datasets/ds002799"
+    },
+    {
+      "label": "ds004770",
+      "destination": "https://openneuro.org/datasets/ds004770"
+    },
+    {
+      "label": "ds004798",
+      "destination": "https://openneuro.org/datasets/ds004798"
+    },
+    {
+      "label": "ds004194",
+      "destination": "https://openneuro.org/datasets/ds004194"
+    },
+    {
+      "label": "ds003844",
+      "destination": "https://openneuro.org/datasets/ds003844"
+    },
+    {
+      "label": "ds003876",
+      "destination": "https://openneuro.org/datasets/ds003876"
+    },
+    {
+      "label": "ds004100",
+      "destination": "https://openneuro.org/datasets/ds004100"
+    },
+    {
+      "label": "ds003029",
+      "destination": "https://openneuro.org/datasets/ds003029"
+    },
+    {
+      "label": "ds003830",
+      "destination": "https://openneuro.org/datasets/ds003830"
+    },
+    {
+      "label": "ds003555",
+      "destination": "https://openneuro.org/datasets/ds003555"
+    },
+    {
+      "label": "ds003498",
+      "destination": "https://openneuro.org/datasets/ds003498"
+    },
+    {
+      "label": "ds004092",
+      "destination": "https://openneuro.org/datasets/ds004092"
+    },
+    {
+      "label": "ds004562",
+      "destination": "https://openneuro.org/datasets/ds004562"
+    },
+    {
+      "label": "ds002608",
+      "destination": "https://openneuro.org/datasets/ds002608"
+    },
+    {
+      "label": "ds002609",
+      "destination": "https://openneuro.org/datasets/ds002609"
+    },
+    {
+      "label": "ds002596",
+      "destination": "https://openneuro.org/datasets/ds002596"
+    },
+    {
+      "label": "ds004746",
+      "destination": "https://openneuro.org/datasets/ds004746"
+    },
+    {
+      "label": "ds003836",
+      "destination": "https://openneuro.org/datasets/ds003836"
+    },
+    {
+      "label": "ds000140",
+      "destination": "https://openneuro.org/datasets/ds000140"
+    },
+    {
+      "label": "ds004265",
+      "destination": "https://openneuro.org/datasets/ds004265"
+    },
+    {
+      "label": "ds001928",
+      "destination": "https://openneuro.org/datasets/ds001928"
+    },
+    {
+      "label": "ds000208",
+      "destination": "https://openneuro.org/datasets/ds000208"
+    },
+    {
+      "label": "ds004161",
+      "destination": "https://openneuro.org/datasets/ds004161"
+    }
+  ],
+  "children": [
+    {
+      "label": "cardiovascular system symptom",
+      "iri": "SYMP:0000528",
+      "info": [
+        {
+          "label": "ds002320",
+          "destination": "https://openneuro.org/datasets/ds002320"
+        }
+      ],
+      "children": [
+        {
+          "label": "shock",
+          "iri": "SYMP:0000450",
+          "info": [
+            {
+              "label": "ds002320",
+              "destination": "https://openneuro.org/datasets/ds002320"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "general symptom",
+      "iri": "SYMP:0000567",
+      "info": [
+        {
+          "label": "ds004302",
+          "destination": "https://openneuro.org/datasets/ds004302"
+        },
+        {
+          "label": "ds003509",
+          "destination": "https://openneuro.org/datasets/ds003509"
+        },
+        {
+          "label": "ds003490",
+          "destination": "https://openneuro.org/datasets/ds003490"
+        },
+        {
+          "label": "ds003506",
+          "destination": "https://openneuro.org/datasets/ds003506"
+        },
+        {
+          "label": "ds004305",
+          "destination": "https://openneuro.org/datasets/ds004305"
+        }
+      ],
+      "children": [
+        {
+          "label": "hallucination",
+          "iri": "SYMP:0000607",
+          "info": [
+            {
+              "label": "ds004302",
+              "destination": "https://openneuro.org/datasets/ds004302"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "tremor",
+          "iri": "SYMP:0000162",
+          "info": [
+            {
+              "label": "ds003509",
+              "destination": "https://openneuro.org/datasets/ds003509"
+            },
+            {
+              "label": "ds003490",
+              "destination": "https://openneuro.org/datasets/ds003490"
+            },
+            {
+              "label": "ds003506",
+              "destination": "https://openneuro.org/datasets/ds003506"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "inflammation",
+          "iri": "SYMP:0000061",
+          "info": [
+            {
+              "label": "ds004305",
+              "destination": "https://openneuro.org/datasets/ds004305"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "head and neck symptom",
+      "iri": "SYMP:0000597",
+      "info": [
+        {
+          "label": "ds003800",
+          "destination": "https://openneuro.org/datasets/ds003800"
+        },
+        {
+          "label": "ds004173",
+          "destination": "https://openneuro.org/datasets/ds004173"
+        },
+        {
+          "label": "ds000256",
+          "destination": "https://openneuro.org/datasets/ds000256"
+        },
+        {
+          "label": "ds004332",
+          "destination": "https://openneuro.org/datasets/ds004332"
+        },
+        {
+          "label": "ds004554",
+          "destination": "https://openneuro.org/datasets/ds004554"
+        },
+        {
+          "label": "ds001890",
+          "destination": "https://openneuro.org/datasets/ds001890"
+        }
+      ],
+      "children": [
+        {
+          "label": "head symptom",
+          "iri": "SYMP:0000387",
+          "info": [
+            {
+              "label": "ds003800",
+              "destination": "https://openneuro.org/datasets/ds003800"
+            },
+            {
+              "label": "ds004173",
+              "destination": "https://openneuro.org/datasets/ds004173"
+            },
+            {
+              "label": "ds000256",
+              "destination": "https://openneuro.org/datasets/ds000256"
+            },
+            {
+              "label": "ds004332",
+              "destination": "https://openneuro.org/datasets/ds004332"
+            },
+            {
+              "label": "ds004554",
+              "destination": "https://openneuro.org/datasets/ds004554"
+            },
+            {
+              "label": "ds001890",
+              "destination": "https://openneuro.org/datasets/ds001890"
+            }
+          ],
+          "children": [
+            {
+              "label": "hydrocephalus",
+              "iri": "SYMP:0000051",
+              "info": [
+                {
+                  "label": "ds001890",
+                  "destination": "https://openneuro.org/datasets/ds001890"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "neurological and physiological symptom",
+      "iri": "SYMP:0000410",
+      "info": [
+        {
+          "label": "ds004693",
+          "destination": "https://openneuro.org/datasets/ds004693"
+        },
+        {
+          "label": "ds004301",
+          "destination": "https://openneuro.org/datasets/ds004301"
+        },
+        {
+          "label": "ds004640",
+          "destination": "https://openneuro.org/datasets/ds004640"
+        },
+        {
+          "label": "ds003754",
+          "destination": "https://openneuro.org/datasets/ds003754"
+        },
+        {
+          "label": "ds000171",
+          "destination": "https://openneuro.org/datasets/ds000171"
+        },
+        {
+          "label": "ds001814",
+          "destination": "https://openneuro.org/datasets/ds001814"
+        },
+        {
+          "label": "ds004840",
+          "destination": "https://openneuro.org/datasets/ds004840"
+        },
+        {
+          "label": "ds002320",
+          "destination": "https://openneuro.org/datasets/ds002320"
+        },
+        {
+          "label": "ds004101",
+          "destination": "https://openneuro.org/datasets/ds004101"
+        },
+        {
+          "label": "ds004711",
+          "destination": "https://openneuro.org/datasets/ds004711"
+        },
+        {
+          "label": "ds002242",
+          "destination": "https://openneuro.org/datasets/ds002242"
+        },
+        {
+          "label": "ds003789",
+          "destination": "https://openneuro.org/datasets/ds003789"
+        },
+        {
+          "label": "ds003721",
+          "destination": "https://openneuro.org/datasets/ds003721"
+        },
+        {
+          "label": "ds004261",
+          "destination": "https://openneuro.org/datasets/ds004261"
+        },
+        {
+          "label": "ds004504",
+          "destination": "https://openneuro.org/datasets/ds004504"
+        },
+        {
+          "label": "ds003569",
+          "destination": "https://openneuro.org/datasets/ds003569"
+        },
+        {
+          "label": "ds004122",
+          "destination": "https://openneuro.org/datasets/ds004122"
+        },
+        {
+          "label": "ds003643",
+          "destination": "https://openneuro.org/datasets/ds003643"
+        },
+        {
+          "label": "ds003791",
+          "destination": "https://openneuro.org/datasets/ds003791"
+        },
+        {
+          "label": "ds003799",
+          "destination": "https://openneuro.org/datasets/ds003799"
+        },
+        {
+          "label": "ds003701",
+          "destination": "https://openneuro.org/datasets/ds003701"
+        },
+        {
+          "label": "ds004123",
+          "destination": "https://openneuro.org/datasets/ds004123"
+        },
+        {
+          "label": "ds004120",
+          "destination": "https://openneuro.org/datasets/ds004120"
+        },
+        {
+          "label": "ds004121",
+          "destination": "https://openneuro.org/datasets/ds004121"
+        },
+        {
+          "label": "ds004118",
+          "destination": "https://openneuro.org/datasets/ds004118"
+        },
+        {
+          "label": "ds004119",
+          "destination": "https://openneuro.org/datasets/ds004119"
+        },
+        {
+          "label": "ds004106",
+          "destination": "https://openneuro.org/datasets/ds004106"
+        },
+        {
+          "label": "ds004105",
+          "destination": "https://openneuro.org/datasets/ds004105"
+        },
+        {
+          "label": "ds003670",
+          "destination": "https://openneuro.org/datasets/ds003670"
+        }
+      ],
+      "children": [
+        {
+          "label": "loss of consciousness",
+          "iri": "SYMP:0000718",
+          "info": [
+            {
+              "label": "ds004640",
+              "destination": "https://openneuro.org/datasets/ds004640"
+            },
+            {
+              "label": "ds003754",
+              "destination": "https://openneuro.org/datasets/ds003754"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "anxiety",
+          "iri": "SYMP:0000412",
+          "info": [
+            {
+              "label": "ds000171",
+              "destination": "https://openneuro.org/datasets/ds000171"
+            },
+            {
+              "label": "ds001814",
+              "destination": "https://openneuro.org/datasets/ds001814"
+            },
+            {
+              "label": "ds004840",
+              "destination": "https://openneuro.org/datasets/ds004840"
+            },
+            {
+              "label": "ds002320",
+              "destination": "https://openneuro.org/datasets/ds002320"
+            },
+            {
+              "label": "ds004101",
+              "destination": "https://openneuro.org/datasets/ds004101"
+            },
+            {
+              "label": "ds004711",
+              "destination": "https://openneuro.org/datasets/ds004711"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "memory loss",
+          "iri": "SYMP:0000543",
+          "info": [
+            {
+              "label": "ds002242",
+              "destination": "https://openneuro.org/datasets/ds002242"
+            },
+            {
+              "label": "ds003789",
+              "destination": "https://openneuro.org/datasets/ds003789"
+            },
+            {
+              "label": "ds003721",
+              "destination": "https://openneuro.org/datasets/ds003721"
+            },
+            {
+              "label": "ds004261",
+              "destination": "https://openneuro.org/datasets/ds004261"
+            },
+            {
+              "label": "ds004504",
+              "destination": "https://openneuro.org/datasets/ds004504"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "balance symptom",
+          "iri": "SYMP:0020045",
+          "info": [
+            {
+              "label": "ds003569",
+              "destination": "https://openneuro.org/datasets/ds003569"
+            }
+          ],
+          "children": [
+            {
+              "label": "confusion",
+              "iri": "SYMP:0000016",
+              "info": [
+                {
+                  "label": "ds003569",
+                  "destination": "https://openneuro.org/datasets/ds003569"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "drowsiness",
+          "iri": "SYMP:0000024",
+          "info": [
+            {
+              "label": "ds004122",
+              "destination": "https://openneuro.org/datasets/ds004122"
+            },
+            {
+              "label": "ds003643",
+              "destination": "https://openneuro.org/datasets/ds003643"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "depression",
+          "iri": "SYMP:0000022",
+          "info": [
+            {
+              "label": "ds000171",
+              "destination": "https://openneuro.org/datasets/ds000171"
+            },
+            {
+              "label": "ds003791",
+              "destination": "https://openneuro.org/datasets/ds003791"
+            },
+            {
+              "label": "ds004840",
+              "destination": "https://openneuro.org/datasets/ds004840"
+            },
+            {
+              "label": "ds003799",
+              "destination": "https://openneuro.org/datasets/ds003799"
+            },
+            {
+              "label": "ds004101",
+              "destination": "https://openneuro.org/datasets/ds004101"
+            },
+            {
+              "label": "ds003701",
+              "destination": "https://openneuro.org/datasets/ds003701"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "fatigue",
+          "iri": "SYMP:0019177",
+          "info": [
+            {
+              "label": "ds004122",
+              "destination": "https://openneuro.org/datasets/ds004122"
+            },
+            {
+              "label": "ds004123",
+              "destination": "https://openneuro.org/datasets/ds004123"
+            },
+            {
+              "label": "ds004120",
+              "destination": "https://openneuro.org/datasets/ds004120"
+            },
+            {
+              "label": "ds004121",
+              "destination": "https://openneuro.org/datasets/ds004121"
+            },
+            {
+              "label": "ds004118",
+              "destination": "https://openneuro.org/datasets/ds004118"
+            },
+            {
+              "label": "ds004119",
+              "destination": "https://openneuro.org/datasets/ds004119"
+            },
+            {
+              "label": "ds004106",
+              "destination": "https://openneuro.org/datasets/ds004106"
+            },
+            {
+              "label": "ds004105",
+              "destination": "https://openneuro.org/datasets/ds004105"
+            },
+            {
+              "label": "ds003670",
+              "destination": "https://openneuro.org/datasets/ds003670"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "nutrition, metabolism, and development symptom",
+      "iri": "SYMP:0000473",
+      "info": [
+        {
+          "label": "ds003126",
+          "destination": "https://openneuro.org/datasets/ds003126"
+        },
+        {
+          "label": "ds002236",
+          "destination": "https://openneuro.org/datasets/ds002236"
+        },
+        {
+          "label": "ds003602",
+          "destination": "https://openneuro.org/datasets/ds003602"
+        }
+      ],
+      "children": [
+        {
+          "label": "feeding difficulties and mismanagement",
+          "iri": "SYMP:0000522",
+          "info": [
+            {
+              "label": "ds003126",
+              "destination": "https://openneuro.org/datasets/ds003126"
+            },
+            {
+              "label": "ds002236",
+              "destination": "https://openneuro.org/datasets/ds002236"
+            },
+            {
+              "label": "ds003602",
+              "destination": "https://openneuro.org/datasets/ds003602"
+            }
+          ],
+          "children": [
+            {
+              "label": "feeding problem",
+              "iri": "SYMP:0020046",
+              "info": [
+                {
+                  "label": "ds003602",
+                  "destination": "https://openneuro.org/datasets/ds003602"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "hemic and immune system symptom",
+      "iri": "SYMP:0017795",
+      "info": [
+        {
+          "label": "ds002185",
+          "destination": "https://openneuro.org/datasets/ds002185"
+        }
+      ],
+      "children": [
+        {
+          "label": "hemic system symptom",
+          "iri": "SYMP:0019139",
+          "info": [
+            {
+              "label": "ds002185",
+              "destination": "https://openneuro.org/datasets/ds002185"
+            }
+          ],
+          "children": [
+            {
+              "label": "hemodynamic instability",
+              "iri": "SYMP:0000749",
+              "info": [
+                {
+                  "label": "ds002185",
+                  "destination": "https://openneuro.org/datasets/ds002185"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "nervous system symptom",
+      "iri": "SYMP:0000480",
+      "info": [
+        {
+          "label": "ds003468",
+          "destination": "https://openneuro.org/datasets/ds003468"
+        },
+        {
+          "label": "ds003801",
+          "destination": "https://openneuro.org/datasets/ds003801"
+        },
+        {
+          "label": "ds002687",
+          "destination": "https://openneuro.org/datasets/ds002687"
+        },
+        {
+          "label": "ds002424",
+          "destination": "https://openneuro.org/datasets/ds002424"
+        },
+        {
+          "label": "ds003791",
+          "destination": "https://openneuro.org/datasets/ds003791"
+        },
+        {
+          "label": "ds004196",
+          "destination": "https://openneuro.org/datasets/ds004196"
+        },
+        {
+          "label": "ds004199",
+          "destination": "https://openneuro.org/datasets/ds004199"
+        },
+        {
+          "label": "ds002799",
+          "destination": "https://openneuro.org/datasets/ds002799"
+        },
+        {
+          "label": "ds004770",
+          "destination": "https://openneuro.org/datasets/ds004770"
+        },
+        {
+          "label": "ds004798",
+          "destination": "https://openneuro.org/datasets/ds004798"
+        },
+        {
+          "label": "ds004194",
+          "destination": "https://openneuro.org/datasets/ds004194"
+        },
+        {
+          "label": "ds003844",
+          "destination": "https://openneuro.org/datasets/ds003844"
+        },
+        {
+          "label": "ds003876",
+          "destination": "https://openneuro.org/datasets/ds003876"
+        },
+        {
+          "label": "ds004100",
+          "destination": "https://openneuro.org/datasets/ds004100"
+        },
+        {
+          "label": "ds003029",
+          "destination": "https://openneuro.org/datasets/ds003029"
+        },
+        {
+          "label": "ds003830",
+          "destination": "https://openneuro.org/datasets/ds003830"
+        },
+        {
+          "label": "ds003555",
+          "destination": "https://openneuro.org/datasets/ds003555"
+        },
+        {
+          "label": "ds003498",
+          "destination": "https://openneuro.org/datasets/ds003498"
+        },
+        {
+          "label": "ds004092",
+          "destination": "https://openneuro.org/datasets/ds004092"
+        },
+        {
+          "label": "ds004562",
+          "destination": "https://openneuro.org/datasets/ds004562"
+        },
+        {
+          "label": "ds002608",
+          "destination": "https://openneuro.org/datasets/ds002608"
+        },
+        {
+          "label": "ds004840",
+          "destination": "https://openneuro.org/datasets/ds004840"
+        },
+        {
+          "label": "ds002609",
+          "destination": "https://openneuro.org/datasets/ds002609"
+        },
+        {
+          "label": "ds002596",
+          "destination": "https://openneuro.org/datasets/ds002596"
+        },
+        {
+          "label": "ds004746",
+          "destination": "https://openneuro.org/datasets/ds004746"
+        },
+        {
+          "label": "ds003836",
+          "destination": "https://openneuro.org/datasets/ds003836"
+        },
+        {
+          "label": "ds000140",
+          "destination": "https://openneuro.org/datasets/ds000140"
+        },
+        {
+          "label": "ds004265",
+          "destination": "https://openneuro.org/datasets/ds004265"
+        },
+        {
+          "label": "ds001928",
+          "destination": "https://openneuro.org/datasets/ds001928"
+        },
+        {
+          "label": "ds000208",
+          "destination": "https://openneuro.org/datasets/ds000208"
+        },
+        {
+          "label": "ds004161",
+          "destination": "https://openneuro.org/datasets/ds004161"
+        }
+      ],
+      "children": [
+        {
+          "label": "behavioral symptom",
+          "iri": "SYMP:0019182",
+          "info": [
+            {
+              "label": "ds003468",
+              "destination": "https://openneuro.org/datasets/ds003468"
+            },
+            {
+              "label": "ds003801",
+              "destination": "https://openneuro.org/datasets/ds003801"
+            },
+            {
+              "label": "ds002687",
+              "destination": "https://openneuro.org/datasets/ds002687"
+            },
+            {
+              "label": "ds002424",
+              "destination": "https://openneuro.org/datasets/ds002424"
+            },
+            {
+              "label": "ds003791",
+              "destination": "https://openneuro.org/datasets/ds003791"
+            }
+          ],
+          "children": [
+            {
+              "label": "limited attention",
+              "iri": "SYMP:0019184",
+              "info": [
+                {
+                  "label": "ds003801",
+                  "destination": "https://openneuro.org/datasets/ds003801"
+                },
+                {
+                  "label": "ds002687",
+                  "destination": "https://openneuro.org/datasets/ds002687"
+                },
+                {
+                  "label": "ds002424",
+                  "destination": "https://openneuro.org/datasets/ds002424"
+                }
+              ],
+              "children": []
+            },
+            {
+              "label": "hyperactivity",
+              "iri": "SYMP:0019183",
+              "info": [
+                {
+                  "label": "ds002687",
+                  "destination": "https://openneuro.org/datasets/ds002687"
+                },
+                {
+                  "label": "ds002424",
+                  "destination": "https://openneuro.org/datasets/ds002424"
+                }
+              ],
+              "children": []
+            },
+            {
+              "label": "abnormal behavior",
+              "iri": "SYMP:0000666",
+              "info": [
+                {
+                  "label": "ds003468",
+                  "destination": "https://openneuro.org/datasets/ds003468"
+                }
+              ],
+              "children": []
+            },
+            {
+              "label": "aggressive behavior",
+              "iri": "SYMP:0000681",
+              "info": [
+                {
+                  "label": "ds003791",
+                  "destination": "https://openneuro.org/datasets/ds003791"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "aphasia",
+          "iri": "SYMP:0000508",
+          "info": [
+            {
+              "label": "ds004196",
+              "destination": "https://openneuro.org/datasets/ds004196"
+            }
+          ],
+          "children": [
+            {
+              "label": "inability to speak",
+              "iri": "SYMP:0000216",
+              "info": [
+                {
+                  "label": "ds004196",
+                  "destination": "https://openneuro.org/datasets/ds004196"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "seizure",
+          "iri": "SYMP:0000124",
+          "info": [
+            {
+              "label": "ds004199",
+              "destination": "https://openneuro.org/datasets/ds004199"
+            },
+            {
+              "label": "ds002799",
+              "destination": "https://openneuro.org/datasets/ds002799"
+            },
+            {
+              "label": "ds004770",
+              "destination": "https://openneuro.org/datasets/ds004770"
+            },
+            {
+              "label": "ds004798",
+              "destination": "https://openneuro.org/datasets/ds004798"
+            },
+            {
+              "label": "ds004194",
+              "destination": "https://openneuro.org/datasets/ds004194"
+            },
+            {
+              "label": "ds003844",
+              "destination": "https://openneuro.org/datasets/ds003844"
+            },
+            {
+              "label": "ds003876",
+              "destination": "https://openneuro.org/datasets/ds003876"
+            },
+            {
+              "label": "ds004100",
+              "destination": "https://openneuro.org/datasets/ds004100"
+            },
+            {
+              "label": "ds003029",
+              "destination": "https://openneuro.org/datasets/ds003029"
+            },
+            {
+              "label": "ds003830",
+              "destination": "https://openneuro.org/datasets/ds003830"
+            },
+            {
+              "label": "ds003555",
+              "destination": "https://openneuro.org/datasets/ds003555"
+            },
+            {
+              "label": "ds003498",
+              "destination": "https://openneuro.org/datasets/ds003498"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "sensation perception",
+          "iri": "SYMP:0000892",
+          "info": [
+            {
+              "label": "ds004092",
+              "destination": "https://openneuro.org/datasets/ds004092"
+            },
+            {
+              "label": "ds004562",
+              "destination": "https://openneuro.org/datasets/ds004562"
+            },
+            {
+              "label": "ds002608",
+              "destination": "https://openneuro.org/datasets/ds002608"
+            },
+            {
+              "label": "ds004840",
+              "destination": "https://openneuro.org/datasets/ds004840"
+            },
+            {
+              "label": "ds002609",
+              "destination": "https://openneuro.org/datasets/ds002609"
+            },
+            {
+              "label": "ds002596",
+              "destination": "https://openneuro.org/datasets/ds002596"
+            },
+            {
+              "label": "ds004746",
+              "destination": "https://openneuro.org/datasets/ds004746"
+            },
+            {
+              "label": "ds003836",
+              "destination": "https://openneuro.org/datasets/ds003836"
+            },
+            {
+              "label": "ds000140",
+              "destination": "https://openneuro.org/datasets/ds000140"
+            },
+            {
+              "label": "ds004265",
+              "destination": "https://openneuro.org/datasets/ds004265"
+            },
+            {
+              "label": "ds001928",
+              "destination": "https://openneuro.org/datasets/ds001928"
+            },
+            {
+              "label": "ds000208",
+              "destination": "https://openneuro.org/datasets/ds000208"
+            },
+            {
+              "label": "ds004161",
+              "destination": "https://openneuro.org/datasets/ds004161"
+            }
+          ],
+          "children": [
+            {
+              "label": "hypoesthesia",
+              "iri": "SYMP:0000834",
+              "info": [
+                {
+                  "label": "ds004562",
+                  "destination": "https://openneuro.org/datasets/ds004562"
+                }
+              ],
+              "children": []
+            },
+            {
+              "label": "pain",
+              "iri": "SYMP:0000099",
+              "info": [
+                {
+                  "label": "ds002608",
+                  "destination": "https://openneuro.org/datasets/ds002608"
+                },
+                {
+                  "label": "ds004840",
+                  "destination": "https://openneuro.org/datasets/ds004840"
+                },
+                {
+                  "label": "ds002609",
+                  "destination": "https://openneuro.org/datasets/ds002609"
+                },
+                {
+                  "label": "ds002596",
+                  "destination": "https://openneuro.org/datasets/ds002596"
+                },
+                {
+                  "label": "ds004746",
+                  "destination": "https://openneuro.org/datasets/ds004746"
+                },
+                {
+                  "label": "ds003836",
+                  "destination": "https://openneuro.org/datasets/ds003836"
+                },
+                {
+                  "label": "ds000140",
+                  "destination": "https://openneuro.org/datasets/ds000140"
+                },
+                {
+                  "label": "ds004265",
+                  "destination": "https://openneuro.org/datasets/ds004265"
+                },
+                {
+                  "label": "ds001928",
+                  "destination": "https://openneuro.org/datasets/ds001928"
+                },
+                {
+                  "label": "ds000208",
+                  "destination": "https://openneuro.org/datasets/ds000208"
+                },
+                {
+                  "label": "ds004161",
+                  "destination": "https://openneuro.org/datasets/ds004161"
+                },
+                {
+                  "label": "ds004092",
+                  "destination": "https://openneuro.org/datasets/ds004092"
+                }
+              ],
+              "children": [
+                {
+                  "label": "chronic pain",
+                  "iri": "SYMP:0000837",
+                  "info": [
+                    {
+                      "label": "ds001928",
+                      "destination": "https://openneuro.org/datasets/ds001928"
+                    },
+                    {
+                      "label": "ds000208",
+                      "destination": "https://openneuro.org/datasets/ds000208"
+                    },
+                    {
+                      "label": "ds004161",
+                      "destination": "https://openneuro.org/datasets/ds004161"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "label": "nociceptive pain",
+                  "iri": "SYMP:0000831",
+                  "info": [
+                    {
+                      "label": "ds004092",
+                      "destination": "https://openneuro.org/datasets/ds004092"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

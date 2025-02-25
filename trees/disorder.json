@@ -1,0 +1,5055 @@
+{
+  "label": "disease",
+  "iri": "DOID:4",
+  "info": [
+    {
+      "label": "ds004408",
+      "destination": "https://openneuro.org/datasets/ds004408"
+    },
+    {
+      "label": "ds004127",
+      "destination": "https://openneuro.org/datasets/ds004127"
+    },
+    {
+      "label": "ds004386",
+      "destination": "https://openneuro.org/datasets/ds004386"
+    },
+    {
+      "label": "ds004006",
+      "destination": "https://openneuro.org/datasets/ds004006"
+    },
+    {
+      "label": "ds000241",
+      "destination": "https://openneuro.org/datasets/ds000241"
+    },
+    {
+      "label": "ds001566",
+      "destination": "https://openneuro.org/datasets/ds001566"
+    },
+    {
+      "label": "ds004604",
+      "destination": "https://openneuro.org/datasets/ds004604"
+    },
+    {
+      "label": "ds002168",
+      "destination": "https://openneuro.org/datasets/ds002168"
+    },
+    {
+      "label": "ds000240",
+      "destination": "https://openneuro.org/datasets/ds000240"
+    },
+    {
+      "label": "ds004521",
+      "destination": "https://openneuro.org/datasets/ds004521"
+    },
+    {
+      "label": "ds003989",
+      "destination": "https://openneuro.org/datasets/ds003989"
+    },
+    {
+      "label": "ds001233",
+      "destination": "https://openneuro.org/datasets/ds001233"
+    },
+    {
+      "label": "ds002094",
+      "destination": "https://openneuro.org/datasets/ds002094"
+    },
+    {
+      "label": "ds004712",
+      "destination": "https://openneuro.org/datasets/ds004712"
+    },
+    {
+      "label": "ds000102",
+      "destination": "https://openneuro.org/datasets/ds000102"
+    },
+    {
+      "label": "ds000239",
+      "destination": "https://openneuro.org/datasets/ds000239"
+    },
+    {
+      "label": "ds004301",
+      "destination": "https://openneuro.org/datasets/ds004301"
+    },
+    {
+      "label": "ds001555",
+      "destination": "https://openneuro.org/datasets/ds001555"
+    },
+    {
+      "label": "ds004551",
+      "destination": "https://openneuro.org/datasets/ds004551"
+    },
+    {
+      "label": "ds002873",
+      "destination": "https://openneuro.org/datasets/ds002873"
+    },
+    {
+      "label": "ds003639",
+      "destination": "https://openneuro.org/datasets/ds003639"
+    },
+    {
+      "label": "ds000109",
+      "destination": "https://openneuro.org/datasets/ds000109"
+    },
+    {
+      "label": "ds000208",
+      "destination": "https://openneuro.org/datasets/ds000208"
+    },
+    {
+      "label": "ds002080",
+      "destination": "https://openneuro.org/datasets/ds002080"
+    },
+    {
+      "label": "ds001226",
+      "destination": "https://openneuro.org/datasets/ds001226"
+    },
+    {
+      "label": "ds001743",
+      "destination": "https://openneuro.org/datasets/ds001743"
+    },
+    {
+      "label": "ds003453",
+      "destination": "https://openneuro.org/datasets/ds003453"
+    },
+    {
+      "label": "ds003455",
+      "destination": "https://openneuro.org/datasets/ds003455"
+    },
+    {
+      "label": "ds003848",
+      "destination": "https://openneuro.org/datasets/ds003848"
+    },
+    {
+      "label": "ds004199",
+      "destination": "https://openneuro.org/datasets/ds004199"
+    },
+    {
+      "label": "ds003374",
+      "destination": "https://openneuro.org/datasets/ds003374"
+    },
+    {
+      "label": "ds002799",
+      "destination": "https://openneuro.org/datasets/ds002799"
+    },
+    {
+      "label": "ds004770",
+      "destination": "https://openneuro.org/datasets/ds004770"
+    },
+    {
+      "label": "ds004798",
+      "destination": "https://openneuro.org/datasets/ds004798"
+    },
+    {
+      "label": "ds004194",
+      "destination": "https://openneuro.org/datasets/ds004194"
+    },
+    {
+      "label": "ds003844",
+      "destination": "https://openneuro.org/datasets/ds003844"
+    },
+    {
+      "label": "ds003876",
+      "destination": "https://openneuro.org/datasets/ds003876"
+    },
+    {
+      "label": "ds004100",
+      "destination": "https://openneuro.org/datasets/ds004100"
+    },
+    {
+      "label": "ds004080",
+      "destination": "https://openneuro.org/datasets/ds004080"
+    },
+    {
+      "label": "ds003029",
+      "destination": "https://openneuro.org/datasets/ds003029"
+    },
+    {
+      "label": "ds004473",
+      "destination": "https://openneuro.org/datasets/ds004473"
+    },
+    {
+      "label": "ds003555",
+      "destination": "https://openneuro.org/datasets/ds003555"
+    },
+    {
+      "label": "ds004752",
+      "destination": "https://openneuro.org/datasets/ds004752"
+    },
+    {
+      "label": "ds003498",
+      "destination": "https://openneuro.org/datasets/ds003498"
+    },
+    {
+      "label": "ds004469",
+      "destination": "https://openneuro.org/datasets/ds004469"
+    },
+    {
+      "label": "ds001378",
+      "destination": "https://openneuro.org/datasets/ds001378"
+    },
+    {
+      "label": "ds003999",
+      "destination": "https://openneuro.org/datasets/ds003999"
+    },
+    {
+      "label": "ds004632",
+      "destination": "https://openneuro.org/datasets/ds004632"
+    },
+    {
+      "label": "ds004498",
+      "destination": "https://openneuro.org/datasets/ds004498"
+    },
+    {
+      "label": "ds003949",
+      "destination": "https://openneuro.org/datasets/ds003949"
+    },
+    {
+      "label": "ds000204",
+      "destination": "https://openneuro.org/datasets/ds000204"
+    },
+    {
+      "label": "ds003522",
+      "destination": "https://openneuro.org/datasets/ds003522"
+    },
+    {
+      "label": "ds003523",
+      "destination": "https://openneuro.org/datasets/ds003523"
+    },
+    {
+      "label": "ds002675",
+      "destination": "https://openneuro.org/datasets/ds002675"
+    },
+    {
+      "label": "ds000220",
+      "destination": "https://openneuro.org/datasets/ds000220"
+    },
+    {
+      "label": "ds004504",
+      "destination": "https://openneuro.org/datasets/ds004504"
+    },
+    {
+      "label": "ds003417",
+      "destination": "https://openneuro.org/datasets/ds003417"
+    },
+    {
+      "label": "ds000206",
+      "destination": "https://openneuro.org/datasets/ds000206"
+    },
+    {
+      "label": "ds002181",
+      "destination": "https://openneuro.org/datasets/ds002181"
+    },
+    {
+      "label": "ds002016",
+      "destination": "https://openneuro.org/datasets/ds002016"
+    },
+    {
+      "label": "ds002040",
+      "destination": "https://openneuro.org/datasets/ds002040"
+    },
+    {
+      "label": "ds004579",
+      "destination": "https://openneuro.org/datasets/ds004579"
+    },
+    {
+      "label": "ds003195",
+      "destination": "https://openneuro.org/datasets/ds003195"
+    },
+    {
+      "label": "ds004738",
+      "destination": "https://openneuro.org/datasets/ds004738"
+    },
+    {
+      "label": "ds004574",
+      "destination": "https://openneuro.org/datasets/ds004574"
+    },
+    {
+      "label": "ds004392",
+      "destination": "https://openneuro.org/datasets/ds004392"
+    },
+    {
+      "label": "ds003194",
+      "destination": "https://openneuro.org/datasets/ds003194"
+    },
+    {
+      "label": "ds004584",
+      "destination": "https://openneuro.org/datasets/ds004584"
+    },
+    {
+      "label": "ds002778",
+      "destination": "https://openneuro.org/datasets/ds002778"
+    },
+    {
+      "label": "ds004580",
+      "destination": "https://openneuro.org/datasets/ds004580"
+    },
+    {
+      "label": "ds003509",
+      "destination": "https://openneuro.org/datasets/ds003509"
+    },
+    {
+      "label": "ds003490",
+      "destination": "https://openneuro.org/datasets/ds003490"
+    },
+    {
+      "label": "ds003506",
+      "destination": "https://openneuro.org/datasets/ds003506"
+    },
+    {
+      "label": "ds001907",
+      "destination": "https://openneuro.org/datasets/ds001907"
+    },
+    {
+      "label": "ds004471",
+      "destination": "https://openneuro.org/datasets/ds004471"
+    },
+    {
+      "label": "ds003325",
+      "destination": "https://openneuro.org/datasets/ds003325"
+    },
+    {
+      "label": "ds004441",
+      "destination": "https://openneuro.org/datasets/ds004441"
+    },
+    {
+      "label": "ds003800",
+      "destination": "https://openneuro.org/datasets/ds003800"
+    },
+    {
+      "label": "ds004767",
+      "destination": "https://openneuro.org/datasets/ds004767"
+    },
+    {
+      "label": "ds002134",
+      "destination": "https://openneuro.org/datasets/ds002134"
+    },
+    {
+      "label": "ds003805",
+      "destination": "https://openneuro.org/datasets/ds003805"
+    },
+    {
+      "label": "ds003590",
+      "destination": "https://openneuro.org/datasets/ds003590"
+    },
+    {
+      "label": "ds003520",
+      "destination": "https://openneuro.org/datasets/ds003520"
+    },
+    {
+      "label": "ds004598",
+      "destination": "https://openneuro.org/datasets/ds004598"
+    },
+    {
+      "label": "ds003463",
+      "destination": "https://openneuro.org/datasets/ds003463"
+    },
+    {
+      "label": "ds001890",
+      "destination": "https://openneuro.org/datasets/ds001890"
+    },
+    {
+      "label": "ds001945",
+      "destination": "https://openneuro.org/datasets/ds001945"
+    },
+    {
+      "label": "ds004116",
+      "destination": "https://openneuro.org/datasets/ds004116"
+    },
+    {
+      "label": "ds004644",
+      "destination": "https://openneuro.org/datasets/ds004644"
+    },
+    {
+      "label": "ds001928",
+      "destination": "https://openneuro.org/datasets/ds001928"
+    },
+    {
+      "label": "ds004144",
+      "destination": "https://openneuro.org/datasets/ds004144"
+    },
+    {
+      "label": "ds004019",
+      "destination": "https://openneuro.org/datasets/ds004019"
+    },
+    {
+      "label": "ds002419",
+      "destination": "https://openneuro.org/datasets/ds002419"
+    },
+    {
+      "label": "ds004151",
+      "destination": "https://openneuro.org/datasets/ds004151"
+    },
+    {
+      "label": "ds004145",
+      "destination": "https://openneuro.org/datasets/ds004145"
+    },
+    {
+      "label": "ds004186",
+      "destination": "https://openneuro.org/datasets/ds004186"
+    },
+    {
+      "label": "ds004791",
+      "destination": "https://openneuro.org/datasets/ds004791"
+    },
+    {
+      "label": "ds000170",
+      "destination": "https://openneuro.org/datasets/ds000170"
+    },
+    {
+      "label": "ds001486",
+      "destination": "https://openneuro.org/datasets/ds001486"
+    },
+    {
+      "label": "ds002236",
+      "destination": "https://openneuro.org/datasets/ds002236"
+    },
+    {
+      "label": "ds003126",
+      "destination": "https://openneuro.org/datasets/ds003126"
+    },
+    {
+      "label": "ds004786",
+      "destination": "https://openneuro.org/datasets/ds004786"
+    },
+    {
+      "label": "ds001894",
+      "destination": "https://openneuro.org/datasets/ds001894"
+    },
+    {
+      "label": "ds004073",
+      "destination": "https://openneuro.org/datasets/ds004073"
+    },
+    {
+      "label": "ds004229",
+      "destination": "https://openneuro.org/datasets/ds004229"
+    },
+    {
+      "label": "ds003444",
+      "destination": "https://openneuro.org/datasets/ds003444"
+    },
+    {
+      "label": "ds004848",
+      "destination": "https://openneuro.org/datasets/ds004848"
+    },
+    {
+      "label": "ds004196",
+      "destination": "https://openneuro.org/datasets/ds004196"
+    },
+    {
+      "label": "ds004512",
+      "destination": "https://openneuro.org/datasets/ds004512"
+    },
+    {
+      "label": "ds004510",
+      "destination": "https://openneuro.org/datasets/ds004510"
+    },
+    {
+      "label": "ds004279",
+      "destination": "https://openneuro.org/datasets/ds004279"
+    },
+    {
+      "label": "ds002372",
+      "destination": "https://openneuro.org/datasets/ds002372"
+    },
+    {
+      "label": "ds002687",
+      "destination": "https://openneuro.org/datasets/ds002687"
+    },
+    {
+      "label": "ds002424",
+      "destination": "https://openneuro.org/datasets/ds002424"
+    },
+    {
+      "label": "ds003500",
+      "destination": "https://openneuro.org/datasets/ds003500"
+    },
+    {
+      "label": "ds002522",
+      "destination": "https://openneuro.org/datasets/ds002522"
+    },
+    {
+      "label": "ds004141",
+      "destination": "https://openneuro.org/datasets/ds004141"
+    },
+    {
+      "label": "ds004467",
+      "destination": "https://openneuro.org/datasets/ds004467"
+    },
+    {
+      "label": "ds003468",
+      "destination": "https://openneuro.org/datasets/ds003468"
+    },
+    {
+      "label": "ds004840",
+      "destination": "https://openneuro.org/datasets/ds004840"
+    },
+    {
+      "label": "ds000133",
+      "destination": "https://openneuro.org/datasets/ds000133"
+    },
+    {
+      "label": "ds001408",
+      "destination": "https://openneuro.org/datasets/ds001408"
+    },
+    {
+      "label": "ds000214",
+      "destination": "https://openneuro.org/datasets/ds000214"
+    },
+    {
+      "label": "ds004101",
+      "destination": "https://openneuro.org/datasets/ds004101"
+    },
+    {
+      "label": "ds004554",
+      "destination": "https://openneuro.org/datasets/ds004554"
+    },
+    {
+      "label": "ds004595",
+      "destination": "https://openneuro.org/datasets/ds004595"
+    },
+    {
+      "label": "ds000174",
+      "destination": "https://openneuro.org/datasets/ds000174"
+    },
+    {
+      "label": "ds003602",
+      "destination": "https://openneuro.org/datasets/ds003602"
+    },
+    {
+      "label": "ds004515",
+      "destination": "https://openneuro.org/datasets/ds004515"
+    },
+    {
+      "label": "ds002006",
+      "destination": "https://openneuro.org/datasets/ds002006"
+    },
+    {
+      "label": "ds004725",
+      "destination": "https://openneuro.org/datasets/ds004725"
+    },
+    {
+      "label": "ds004564",
+      "destination": "https://openneuro.org/datasets/ds004564"
+    },
+    {
+      "label": "ds000245",
+      "destination": "https://openneuro.org/datasets/ds000245"
+    },
+    {
+      "label": "ds002893",
+      "destination": "https://openneuro.org/datasets/ds002893"
+    },
+    {
+      "label": "ds001747",
+      "destination": "https://openneuro.org/datasets/ds001747"
+    },
+    {
+      "label": "ds004000",
+      "destination": "https://openneuro.org/datasets/ds004000"
+    },
+    {
+      "label": "ds003011",
+      "destination": "https://openneuro.org/datasets/ds003011"
+    },
+    {
+      "label": "ds004302",
+      "destination": "https://openneuro.org/datasets/ds004302"
+    },
+    {
+      "label": "ds000115",
+      "destination": "https://openneuro.org/datasets/ds000115"
+    },
+    {
+      "label": "ds004837",
+      "destination": "https://openneuro.org/datasets/ds004837"
+    },
+    {
+      "label": "ds003944",
+      "destination": "https://openneuro.org/datasets/ds003944"
+    },
+    {
+      "label": "ds003947",
+      "destination": "https://openneuro.org/datasets/ds003947"
+    },
+    {
+      "label": "ds001461",
+      "destination": "https://openneuro.org/datasets/ds001461"
+    },
+    {
+      "label": "ds004065",
+      "destination": "https://openneuro.org/datasets/ds004065"
+    },
+    {
+      "label": "ds003831",
+      "destination": "https://openneuro.org/datasets/ds003831"
+    },
+    {
+      "label": "ds000171",
+      "destination": "https://openneuro.org/datasets/ds000171"
+    },
+    {
+      "label": "ds003007",
+      "destination": "https://openneuro.org/datasets/ds003007"
+    },
+    {
+      "label": "ds003799",
+      "destination": "https://openneuro.org/datasets/ds003799"
+    },
+    {
+      "label": "ds004166",
+      "destination": "https://openneuro.org/datasets/ds004166"
+    },
+    {
+      "label": "ds003770",
+      "destination": "https://openneuro.org/datasets/ds003770"
+    },
+    {
+      "label": "ds003653",
+      "destination": "https://openneuro.org/datasets/ds003653"
+    },
+    {
+      "label": "ds003568",
+      "destination": "https://openneuro.org/datasets/ds003568"
+    },
+    {
+      "label": "ds002748",
+      "destination": "https://openneuro.org/datasets/ds002748"
+    },
+    {
+      "label": "ds003709",
+      "destination": "https://openneuro.org/datasets/ds003709"
+    },
+    {
+      "label": "ds003478",
+      "destination": "https://openneuro.org/datasets/ds003478"
+    },
+    {
+      "label": "ds002156",
+      "destination": "https://openneuro.org/datasets/ds002156"
+    },
+    {
+      "label": "ds003474",
+      "destination": "https://openneuro.org/datasets/ds003474"
+    },
+    {
+      "label": "ds004552",
+      "destination": "https://openneuro.org/datasets/ds004552"
+    },
+    {
+      "label": "ds004627",
+      "destination": "https://openneuro.org/datasets/ds004627"
+    },
+    {
+      "label": "ds003701",
+      "destination": "https://openneuro.org/datasets/ds003701"
+    },
+    {
+      "label": "ds004146",
+      "destination": "https://openneuro.org/datasets/ds004146"
+    },
+    {
+      "label": "ds000144",
+      "destination": "https://openneuro.org/datasets/ds000144"
+    }
+  ],
+  "children": [
+    {
+      "label": "disease of anatomical entity",
+      "iri": "DOID:7",
+      "info": [
+        {
+          "label": "ds004408",
+          "destination": "https://openneuro.org/datasets/ds004408"
+        },
+        {
+          "label": "ds004127",
+          "destination": "https://openneuro.org/datasets/ds004127"
+        },
+        {
+          "label": "ds004386",
+          "destination": "https://openneuro.org/datasets/ds004386"
+        },
+        {
+          "label": "ds004006",
+          "destination": "https://openneuro.org/datasets/ds004006"
+        },
+        {
+          "label": "ds000241",
+          "destination": "https://openneuro.org/datasets/ds000241"
+        },
+        {
+          "label": "ds001566",
+          "destination": "https://openneuro.org/datasets/ds001566"
+        },
+        {
+          "label": "ds004604",
+          "destination": "https://openneuro.org/datasets/ds004604"
+        },
+        {
+          "label": "ds002168",
+          "destination": "https://openneuro.org/datasets/ds002168"
+        },
+        {
+          "label": "ds000240",
+          "destination": "https://openneuro.org/datasets/ds000240"
+        },
+        {
+          "label": "ds004521",
+          "destination": "https://openneuro.org/datasets/ds004521"
+        },
+        {
+          "label": "ds003989",
+          "destination": "https://openneuro.org/datasets/ds003989"
+        },
+        {
+          "label": "ds001233",
+          "destination": "https://openneuro.org/datasets/ds001233"
+        },
+        {
+          "label": "ds002094",
+          "destination": "https://openneuro.org/datasets/ds002094"
+        },
+        {
+          "label": "ds004712",
+          "destination": "https://openneuro.org/datasets/ds004712"
+        },
+        {
+          "label": "ds000102",
+          "destination": "https://openneuro.org/datasets/ds000102"
+        },
+        {
+          "label": "ds000239",
+          "destination": "https://openneuro.org/datasets/ds000239"
+        },
+        {
+          "label": "ds004301",
+          "destination": "https://openneuro.org/datasets/ds004301"
+        },
+        {
+          "label": "ds001555",
+          "destination": "https://openneuro.org/datasets/ds001555"
+        },
+        {
+          "label": "ds004551",
+          "destination": "https://openneuro.org/datasets/ds004551"
+        },
+        {
+          "label": "ds002873",
+          "destination": "https://openneuro.org/datasets/ds002873"
+        },
+        {
+          "label": "ds003639",
+          "destination": "https://openneuro.org/datasets/ds003639"
+        },
+        {
+          "label": "ds000109",
+          "destination": "https://openneuro.org/datasets/ds000109"
+        },
+        {
+          "label": "ds000208",
+          "destination": "https://openneuro.org/datasets/ds000208"
+        },
+        {
+          "label": "ds002080",
+          "destination": "https://openneuro.org/datasets/ds002080"
+        },
+        {
+          "label": "ds001226",
+          "destination": "https://openneuro.org/datasets/ds001226"
+        },
+        {
+          "label": "ds001743",
+          "destination": "https://openneuro.org/datasets/ds001743"
+        },
+        {
+          "label": "ds003453",
+          "destination": "https://openneuro.org/datasets/ds003453"
+        },
+        {
+          "label": "ds003455",
+          "destination": "https://openneuro.org/datasets/ds003455"
+        },
+        {
+          "label": "ds003848",
+          "destination": "https://openneuro.org/datasets/ds003848"
+        },
+        {
+          "label": "ds004199",
+          "destination": "https://openneuro.org/datasets/ds004199"
+        },
+        {
+          "label": "ds003374",
+          "destination": "https://openneuro.org/datasets/ds003374"
+        },
+        {
+          "label": "ds002799",
+          "destination": "https://openneuro.org/datasets/ds002799"
+        },
+        {
+          "label": "ds004770",
+          "destination": "https://openneuro.org/datasets/ds004770"
+        },
+        {
+          "label": "ds004798",
+          "destination": "https://openneuro.org/datasets/ds004798"
+        },
+        {
+          "label": "ds004194",
+          "destination": "https://openneuro.org/datasets/ds004194"
+        },
+        {
+          "label": "ds003844",
+          "destination": "https://openneuro.org/datasets/ds003844"
+        },
+        {
+          "label": "ds003876",
+          "destination": "https://openneuro.org/datasets/ds003876"
+        },
+        {
+          "label": "ds004100",
+          "destination": "https://openneuro.org/datasets/ds004100"
+        },
+        {
+          "label": "ds004080",
+          "destination": "https://openneuro.org/datasets/ds004080"
+        },
+        {
+          "label": "ds003029",
+          "destination": "https://openneuro.org/datasets/ds003029"
+        },
+        {
+          "label": "ds004473",
+          "destination": "https://openneuro.org/datasets/ds004473"
+        },
+        {
+          "label": "ds003555",
+          "destination": "https://openneuro.org/datasets/ds003555"
+        },
+        {
+          "label": "ds004752",
+          "destination": "https://openneuro.org/datasets/ds004752"
+        },
+        {
+          "label": "ds003498",
+          "destination": "https://openneuro.org/datasets/ds003498"
+        },
+        {
+          "label": "ds004469",
+          "destination": "https://openneuro.org/datasets/ds004469"
+        },
+        {
+          "label": "ds001378",
+          "destination": "https://openneuro.org/datasets/ds001378"
+        },
+        {
+          "label": "ds003999",
+          "destination": "https://openneuro.org/datasets/ds003999"
+        },
+        {
+          "label": "ds004632",
+          "destination": "https://openneuro.org/datasets/ds004632"
+        },
+        {
+          "label": "ds004498",
+          "destination": "https://openneuro.org/datasets/ds004498"
+        },
+        {
+          "label": "ds003949",
+          "destination": "https://openneuro.org/datasets/ds003949"
+        },
+        {
+          "label": "ds000204",
+          "destination": "https://openneuro.org/datasets/ds000204"
+        },
+        {
+          "label": "ds003522",
+          "destination": "https://openneuro.org/datasets/ds003522"
+        },
+        {
+          "label": "ds003523",
+          "destination": "https://openneuro.org/datasets/ds003523"
+        },
+        {
+          "label": "ds002675",
+          "destination": "https://openneuro.org/datasets/ds002675"
+        },
+        {
+          "label": "ds000220",
+          "destination": "https://openneuro.org/datasets/ds000220"
+        },
+        {
+          "label": "ds004504",
+          "destination": "https://openneuro.org/datasets/ds004504"
+        },
+        {
+          "label": "ds003417",
+          "destination": "https://openneuro.org/datasets/ds003417"
+        },
+        {
+          "label": "ds000206",
+          "destination": "https://openneuro.org/datasets/ds000206"
+        },
+        {
+          "label": "ds002181",
+          "destination": "https://openneuro.org/datasets/ds002181"
+        },
+        {
+          "label": "ds002016",
+          "destination": "https://openneuro.org/datasets/ds002016"
+        },
+        {
+          "label": "ds002040",
+          "destination": "https://openneuro.org/datasets/ds002040"
+        },
+        {
+          "label": "ds004579",
+          "destination": "https://openneuro.org/datasets/ds004579"
+        },
+        {
+          "label": "ds003195",
+          "destination": "https://openneuro.org/datasets/ds003195"
+        },
+        {
+          "label": "ds004738",
+          "destination": "https://openneuro.org/datasets/ds004738"
+        },
+        {
+          "label": "ds004574",
+          "destination": "https://openneuro.org/datasets/ds004574"
+        },
+        {
+          "label": "ds004392",
+          "destination": "https://openneuro.org/datasets/ds004392"
+        },
+        {
+          "label": "ds003194",
+          "destination": "https://openneuro.org/datasets/ds003194"
+        },
+        {
+          "label": "ds004584",
+          "destination": "https://openneuro.org/datasets/ds004584"
+        },
+        {
+          "label": "ds002778",
+          "destination": "https://openneuro.org/datasets/ds002778"
+        },
+        {
+          "label": "ds004580",
+          "destination": "https://openneuro.org/datasets/ds004580"
+        },
+        {
+          "label": "ds003509",
+          "destination": "https://openneuro.org/datasets/ds003509"
+        },
+        {
+          "label": "ds003490",
+          "destination": "https://openneuro.org/datasets/ds003490"
+        },
+        {
+          "label": "ds003506",
+          "destination": "https://openneuro.org/datasets/ds003506"
+        },
+        {
+          "label": "ds001907",
+          "destination": "https://openneuro.org/datasets/ds001907"
+        },
+        {
+          "label": "ds004471",
+          "destination": "https://openneuro.org/datasets/ds004471"
+        },
+        {
+          "label": "ds003325",
+          "destination": "https://openneuro.org/datasets/ds003325"
+        },
+        {
+          "label": "ds004441",
+          "destination": "https://openneuro.org/datasets/ds004441"
+        },
+        {
+          "label": "ds003800",
+          "destination": "https://openneuro.org/datasets/ds003800"
+        },
+        {
+          "label": "ds004767",
+          "destination": "https://openneuro.org/datasets/ds004767"
+        },
+        {
+          "label": "ds002134",
+          "destination": "https://openneuro.org/datasets/ds002134"
+        },
+        {
+          "label": "ds003805",
+          "destination": "https://openneuro.org/datasets/ds003805"
+        },
+        {
+          "label": "ds003590",
+          "destination": "https://openneuro.org/datasets/ds003590"
+        },
+        {
+          "label": "ds003520",
+          "destination": "https://openneuro.org/datasets/ds003520"
+        },
+        {
+          "label": "ds004598",
+          "destination": "https://openneuro.org/datasets/ds004598"
+        },
+        {
+          "label": "ds003463",
+          "destination": "https://openneuro.org/datasets/ds003463"
+        },
+        {
+          "label": "ds001890",
+          "destination": "https://openneuro.org/datasets/ds001890"
+        },
+        {
+          "label": "ds001945",
+          "destination": "https://openneuro.org/datasets/ds001945"
+        },
+        {
+          "label": "ds004116",
+          "destination": "https://openneuro.org/datasets/ds004116"
+        }
+      ],
+      "children": [
+        {
+          "label": "musculoskeletal system disease",
+          "iri": "DOID:17",
+          "info": [
+            {
+              "label": "ds004408",
+              "destination": "https://openneuro.org/datasets/ds004408"
+            },
+            {
+              "label": "ds004127",
+              "destination": "https://openneuro.org/datasets/ds004127"
+            },
+            {
+              "label": "ds004386",
+              "destination": "https://openneuro.org/datasets/ds004386"
+            },
+            {
+              "label": "ds004006",
+              "destination": "https://openneuro.org/datasets/ds004006"
+            },
+            {
+              "label": "ds000241",
+              "destination": "https://openneuro.org/datasets/ds000241"
+            },
+            {
+              "label": "ds001566",
+              "destination": "https://openneuro.org/datasets/ds001566"
+            },
+            {
+              "label": "ds004604",
+              "destination": "https://openneuro.org/datasets/ds004604"
+            },
+            {
+              "label": "ds002168",
+              "destination": "https://openneuro.org/datasets/ds002168"
+            },
+            {
+              "label": "ds000240",
+              "destination": "https://openneuro.org/datasets/ds000240"
+            },
+            {
+              "label": "ds004521",
+              "destination": "https://openneuro.org/datasets/ds004521"
+            },
+            {
+              "label": "ds003989",
+              "destination": "https://openneuro.org/datasets/ds003989"
+            },
+            {
+              "label": "ds001233",
+              "destination": "https://openneuro.org/datasets/ds001233"
+            },
+            {
+              "label": "ds002094",
+              "destination": "https://openneuro.org/datasets/ds002094"
+            },
+            {
+              "label": "ds004712",
+              "destination": "https://openneuro.org/datasets/ds004712"
+            },
+            {
+              "label": "ds000102",
+              "destination": "https://openneuro.org/datasets/ds000102"
+            },
+            {
+              "label": "ds000239",
+              "destination": "https://openneuro.org/datasets/ds000239"
+            },
+            {
+              "label": "ds004301",
+              "destination": "https://openneuro.org/datasets/ds004301"
+            },
+            {
+              "label": "ds001555",
+              "destination": "https://openneuro.org/datasets/ds001555"
+            },
+            {
+              "label": "ds004551",
+              "destination": "https://openneuro.org/datasets/ds004551"
+            },
+            {
+              "label": "ds002873",
+              "destination": "https://openneuro.org/datasets/ds002873"
+            },
+            {
+              "label": "ds003639",
+              "destination": "https://openneuro.org/datasets/ds003639"
+            },
+            {
+              "label": "ds000109",
+              "destination": "https://openneuro.org/datasets/ds000109"
+            },
+            {
+              "label": "ds000208",
+              "destination": "https://openneuro.org/datasets/ds000208"
+            }
+          ],
+          "children": [
+            {
+              "label": "connective tissue disease",
+              "iri": "DOID:65",
+              "info": [
+                {
+                  "label": "ds004408",
+                  "destination": "https://openneuro.org/datasets/ds004408"
+                },
+                {
+                  "label": "ds004127",
+                  "destination": "https://openneuro.org/datasets/ds004127"
+                },
+                {
+                  "label": "ds004386",
+                  "destination": "https://openneuro.org/datasets/ds004386"
+                },
+                {
+                  "label": "ds004006",
+                  "destination": "https://openneuro.org/datasets/ds004006"
+                },
+                {
+                  "label": "ds000241",
+                  "destination": "https://openneuro.org/datasets/ds000241"
+                },
+                {
+                  "label": "ds001566",
+                  "destination": "https://openneuro.org/datasets/ds001566"
+                },
+                {
+                  "label": "ds004604",
+                  "destination": "https://openneuro.org/datasets/ds004604"
+                },
+                {
+                  "label": "ds002168",
+                  "destination": "https://openneuro.org/datasets/ds002168"
+                },
+                {
+                  "label": "ds000240",
+                  "destination": "https://openneuro.org/datasets/ds000240"
+                },
+                {
+                  "label": "ds004521",
+                  "destination": "https://openneuro.org/datasets/ds004521"
+                },
+                {
+                  "label": "ds003989",
+                  "destination": "https://openneuro.org/datasets/ds003989"
+                },
+                {
+                  "label": "ds001233",
+                  "destination": "https://openneuro.org/datasets/ds001233"
+                },
+                {
+                  "label": "ds002094",
+                  "destination": "https://openneuro.org/datasets/ds002094"
+                },
+                {
+                  "label": "ds004712",
+                  "destination": "https://openneuro.org/datasets/ds004712"
+                },
+                {
+                  "label": "ds000102",
+                  "destination": "https://openneuro.org/datasets/ds000102"
+                },
+                {
+                  "label": "ds000239",
+                  "destination": "https://openneuro.org/datasets/ds000239"
+                },
+                {
+                  "label": "ds004301",
+                  "destination": "https://openneuro.org/datasets/ds004301"
+                },
+                {
+                  "label": "ds001555",
+                  "destination": "https://openneuro.org/datasets/ds001555"
+                },
+                {
+                  "label": "ds004551",
+                  "destination": "https://openneuro.org/datasets/ds004551"
+                },
+                {
+                  "label": "ds002873",
+                  "destination": "https://openneuro.org/datasets/ds002873"
+                },
+                {
+                  "label": "ds003639",
+                  "destination": "https://openneuro.org/datasets/ds003639"
+                },
+                {
+                  "label": "ds000109",
+                  "destination": "https://openneuro.org/datasets/ds000109"
+                },
+                {
+                  "label": "ds000208",
+                  "destination": "https://openneuro.org/datasets/ds000208"
+                }
+              ],
+              "children": [
+                {
+                  "label": "bone disease",
+                  "iri": "DOID:0080001",
+                  "info": [
+                    {
+                      "label": "ds004408",
+                      "destination": "https://openneuro.org/datasets/ds004408"
+                    },
+                    {
+                      "label": "ds004127",
+                      "destination": "https://openneuro.org/datasets/ds004127"
+                    },
+                    {
+                      "label": "ds004386",
+                      "destination": "https://openneuro.org/datasets/ds004386"
+                    },
+                    {
+                      "label": "ds004006",
+                      "destination": "https://openneuro.org/datasets/ds004006"
+                    },
+                    {
+                      "label": "ds000241",
+                      "destination": "https://openneuro.org/datasets/ds000241"
+                    },
+                    {
+                      "label": "ds001566",
+                      "destination": "https://openneuro.org/datasets/ds001566"
+                    },
+                    {
+                      "label": "ds004604",
+                      "destination": "https://openneuro.org/datasets/ds004604"
+                    },
+                    {
+                      "label": "ds002168",
+                      "destination": "https://openneuro.org/datasets/ds002168"
+                    },
+                    {
+                      "label": "ds000240",
+                      "destination": "https://openneuro.org/datasets/ds000240"
+                    },
+                    {
+                      "label": "ds004521",
+                      "destination": "https://openneuro.org/datasets/ds004521"
+                    },
+                    {
+                      "label": "ds003989",
+                      "destination": "https://openneuro.org/datasets/ds003989"
+                    },
+                    {
+                      "label": "ds001233",
+                      "destination": "https://openneuro.org/datasets/ds001233"
+                    },
+                    {
+                      "label": "ds002094",
+                      "destination": "https://openneuro.org/datasets/ds002094"
+                    },
+                    {
+                      "label": "ds004712",
+                      "destination": "https://openneuro.org/datasets/ds004712"
+                    },
+                    {
+                      "label": "ds000102",
+                      "destination": "https://openneuro.org/datasets/ds000102"
+                    },
+                    {
+                      "label": "ds000239",
+                      "destination": "https://openneuro.org/datasets/ds000239"
+                    },
+                    {
+                      "label": "ds004301",
+                      "destination": "https://openneuro.org/datasets/ds004301"
+                    },
+                    {
+                      "label": "ds001555",
+                      "destination": "https://openneuro.org/datasets/ds001555"
+                    },
+                    {
+                      "label": "ds004551",
+                      "destination": "https://openneuro.org/datasets/ds004551"
+                    },
+                    {
+                      "label": "ds002873",
+                      "destination": "https://openneuro.org/datasets/ds002873"
+                    },
+                    {
+                      "label": "ds003639",
+                      "destination": "https://openneuro.org/datasets/ds003639"
+                    },
+                    {
+                      "label": "ds000109",
+                      "destination": "https://openneuro.org/datasets/ds000109"
+                    },
+                    {
+                      "label": "ds000208",
+                      "destination": "https://openneuro.org/datasets/ds000208"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "bone inflammation disease",
+                      "iri": "DOID:3342",
+                      "info": [
+                        {
+                          "label": "ds000208",
+                          "destination": "https://openneuro.org/datasets/ds000208"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "arthritis",
+                          "iri": "DOID:848",
+                          "info": [
+                            {
+                              "label": "ds000208",
+                              "destination": "https://openneuro.org/datasets/ds000208"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "label": "osteoarthritis",
+                              "iri": "DOID:8398",
+                              "info": [
+                                {
+                                  "label": "ds000208",
+                                  "destination": "https://openneuro.org/datasets/ds000208"
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "nervous system disease",
+          "iri": "DOID:863",
+          "info": [
+            {
+              "label": "ds002080",
+              "destination": "https://openneuro.org/datasets/ds002080"
+            },
+            {
+              "label": "ds001226",
+              "destination": "https://openneuro.org/datasets/ds001226"
+            },
+            {
+              "label": "ds001743",
+              "destination": "https://openneuro.org/datasets/ds001743"
+            },
+            {
+              "label": "ds003453",
+              "destination": "https://openneuro.org/datasets/ds003453"
+            },
+            {
+              "label": "ds003455",
+              "destination": "https://openneuro.org/datasets/ds003455"
+            },
+            {
+              "label": "ds003848",
+              "destination": "https://openneuro.org/datasets/ds003848"
+            },
+            {
+              "label": "ds004199",
+              "destination": "https://openneuro.org/datasets/ds004199"
+            },
+            {
+              "label": "ds003374",
+              "destination": "https://openneuro.org/datasets/ds003374"
+            },
+            {
+              "label": "ds002799",
+              "destination": "https://openneuro.org/datasets/ds002799"
+            },
+            {
+              "label": "ds004770",
+              "destination": "https://openneuro.org/datasets/ds004770"
+            },
+            {
+              "label": "ds004798",
+              "destination": "https://openneuro.org/datasets/ds004798"
+            },
+            {
+              "label": "ds004194",
+              "destination": "https://openneuro.org/datasets/ds004194"
+            },
+            {
+              "label": "ds003844",
+              "destination": "https://openneuro.org/datasets/ds003844"
+            },
+            {
+              "label": "ds003876",
+              "destination": "https://openneuro.org/datasets/ds003876"
+            },
+            {
+              "label": "ds004100",
+              "destination": "https://openneuro.org/datasets/ds004100"
+            },
+            {
+              "label": "ds004080",
+              "destination": "https://openneuro.org/datasets/ds004080"
+            },
+            {
+              "label": "ds003029",
+              "destination": "https://openneuro.org/datasets/ds003029"
+            },
+            {
+              "label": "ds004473",
+              "destination": "https://openneuro.org/datasets/ds004473"
+            },
+            {
+              "label": "ds003555",
+              "destination": "https://openneuro.org/datasets/ds003555"
+            },
+            {
+              "label": "ds004752",
+              "destination": "https://openneuro.org/datasets/ds004752"
+            },
+            {
+              "label": "ds003498",
+              "destination": "https://openneuro.org/datasets/ds003498"
+            },
+            {
+              "label": "ds004469",
+              "destination": "https://openneuro.org/datasets/ds004469"
+            },
+            {
+              "label": "ds001378",
+              "destination": "https://openneuro.org/datasets/ds001378"
+            },
+            {
+              "label": "ds003999",
+              "destination": "https://openneuro.org/datasets/ds003999"
+            },
+            {
+              "label": "ds004632",
+              "destination": "https://openneuro.org/datasets/ds004632"
+            },
+            {
+              "label": "ds004498",
+              "destination": "https://openneuro.org/datasets/ds004498"
+            },
+            {
+              "label": "ds003949",
+              "destination": "https://openneuro.org/datasets/ds003949"
+            },
+            {
+              "label": "ds000204",
+              "destination": "https://openneuro.org/datasets/ds000204"
+            },
+            {
+              "label": "ds003522",
+              "destination": "https://openneuro.org/datasets/ds003522"
+            },
+            {
+              "label": "ds003523",
+              "destination": "https://openneuro.org/datasets/ds003523"
+            },
+            {
+              "label": "ds002675",
+              "destination": "https://openneuro.org/datasets/ds002675"
+            },
+            {
+              "label": "ds000220",
+              "destination": "https://openneuro.org/datasets/ds000220"
+            },
+            {
+              "label": "ds004504",
+              "destination": "https://openneuro.org/datasets/ds004504"
+            },
+            {
+              "label": "ds003417",
+              "destination": "https://openneuro.org/datasets/ds003417"
+            },
+            {
+              "label": "ds000206",
+              "destination": "https://openneuro.org/datasets/ds000206"
+            },
+            {
+              "label": "ds002181",
+              "destination": "https://openneuro.org/datasets/ds002181"
+            },
+            {
+              "label": "ds002016",
+              "destination": "https://openneuro.org/datasets/ds002016"
+            },
+            {
+              "label": "ds002040",
+              "destination": "https://openneuro.org/datasets/ds002040"
+            },
+            {
+              "label": "ds004579",
+              "destination": "https://openneuro.org/datasets/ds004579"
+            },
+            {
+              "label": "ds003195",
+              "destination": "https://openneuro.org/datasets/ds003195"
+            },
+            {
+              "label": "ds004738",
+              "destination": "https://openneuro.org/datasets/ds004738"
+            },
+            {
+              "label": "ds004574",
+              "destination": "https://openneuro.org/datasets/ds004574"
+            },
+            {
+              "label": "ds004392",
+              "destination": "https://openneuro.org/datasets/ds004392"
+            },
+            {
+              "label": "ds003194",
+              "destination": "https://openneuro.org/datasets/ds003194"
+            },
+            {
+              "label": "ds004584",
+              "destination": "https://openneuro.org/datasets/ds004584"
+            },
+            {
+              "label": "ds002778",
+              "destination": "https://openneuro.org/datasets/ds002778"
+            },
+            {
+              "label": "ds004580",
+              "destination": "https://openneuro.org/datasets/ds004580"
+            },
+            {
+              "label": "ds003509",
+              "destination": "https://openneuro.org/datasets/ds003509"
+            },
+            {
+              "label": "ds003490",
+              "destination": "https://openneuro.org/datasets/ds003490"
+            },
+            {
+              "label": "ds003506",
+              "destination": "https://openneuro.org/datasets/ds003506"
+            },
+            {
+              "label": "ds001907",
+              "destination": "https://openneuro.org/datasets/ds001907"
+            },
+            {
+              "label": "ds004471",
+              "destination": "https://openneuro.org/datasets/ds004471"
+            },
+            {
+              "label": "ds003325",
+              "destination": "https://openneuro.org/datasets/ds003325"
+            },
+            {
+              "label": "ds004441",
+              "destination": "https://openneuro.org/datasets/ds004441"
+            },
+            {
+              "label": "ds003800",
+              "destination": "https://openneuro.org/datasets/ds003800"
+            },
+            {
+              "label": "ds004767",
+              "destination": "https://openneuro.org/datasets/ds004767"
+            },
+            {
+              "label": "ds002134",
+              "destination": "https://openneuro.org/datasets/ds002134"
+            },
+            {
+              "label": "ds003805",
+              "destination": "https://openneuro.org/datasets/ds003805"
+            },
+            {
+              "label": "ds003590",
+              "destination": "https://openneuro.org/datasets/ds003590"
+            },
+            {
+              "label": "ds003520",
+              "destination": "https://openneuro.org/datasets/ds003520"
+            },
+            {
+              "label": "ds004598",
+              "destination": "https://openneuro.org/datasets/ds004598"
+            },
+            {
+              "label": "ds003463",
+              "destination": "https://openneuro.org/datasets/ds003463"
+            },
+            {
+              "label": "ds001890",
+              "destination": "https://openneuro.org/datasets/ds001890"
+            },
+            {
+              "label": "ds001945",
+              "destination": "https://openneuro.org/datasets/ds001945"
+            },
+            {
+              "label": "ds004116",
+              "destination": "https://openneuro.org/datasets/ds004116"
+            }
+          ],
+          "children": [
+            {
+              "label": "nervous system cancer",
+              "iri": "DOID:3093",
+              "info": [
+                {
+                  "label": "ds002080",
+                  "destination": "https://openneuro.org/datasets/ds002080"
+                },
+                {
+                  "label": "ds001226",
+                  "destination": "https://openneuro.org/datasets/ds001226"
+                }
+              ],
+              "children": [
+                {
+                  "label": "central nervous system cancer",
+                  "iri": "DOID:3620",
+                  "info": [
+                    {
+                      "label": "ds002080",
+                      "destination": "https://openneuro.org/datasets/ds002080"
+                    },
+                    {
+                      "label": "ds001226",
+                      "destination": "https://openneuro.org/datasets/ds001226"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "meningioma",
+                      "iri": "DOID:3565",
+                      "info": [
+                        {
+                          "label": "ds002080",
+                          "destination": "https://openneuro.org/datasets/ds002080"
+                        },
+                        {
+                          "label": "ds001226",
+                          "destination": "https://openneuro.org/datasets/ds001226"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "sensory system disease",
+              "iri": "DOID:0050155",
+              "info": [
+                {
+                  "label": "ds001743",
+                  "destination": "https://openneuro.org/datasets/ds001743"
+                }
+              ],
+              "children": [
+                {
+                  "label": "eye disease",
+                  "iri": "DOID:5614",
+                  "info": [
+                    {
+                      "label": "ds001743",
+                      "destination": "https://openneuro.org/datasets/ds001743"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "glaucoma",
+                      "iri": "DOID:1686",
+                      "info": [
+                        {
+                          "label": "ds001743",
+                          "destination": "https://openneuro.org/datasets/ds001743"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "central nervous system disease",
+              "iri": "DOID:331",
+              "info": [
+                {
+                  "label": "ds003453",
+                  "destination": "https://openneuro.org/datasets/ds003453"
+                },
+                {
+                  "label": "ds003455",
+                  "destination": "https://openneuro.org/datasets/ds003455"
+                },
+                {
+                  "label": "ds003848",
+                  "destination": "https://openneuro.org/datasets/ds003848"
+                },
+                {
+                  "label": "ds004199",
+                  "destination": "https://openneuro.org/datasets/ds004199"
+                },
+                {
+                  "label": "ds003374",
+                  "destination": "https://openneuro.org/datasets/ds003374"
+                },
+                {
+                  "label": "ds002799",
+                  "destination": "https://openneuro.org/datasets/ds002799"
+                },
+                {
+                  "label": "ds004770",
+                  "destination": "https://openneuro.org/datasets/ds004770"
+                },
+                {
+                  "label": "ds004798",
+                  "destination": "https://openneuro.org/datasets/ds004798"
+                },
+                {
+                  "label": "ds004194",
+                  "destination": "https://openneuro.org/datasets/ds004194"
+                },
+                {
+                  "label": "ds003844",
+                  "destination": "https://openneuro.org/datasets/ds003844"
+                },
+                {
+                  "label": "ds003876",
+                  "destination": "https://openneuro.org/datasets/ds003876"
+                },
+                {
+                  "label": "ds004100",
+                  "destination": "https://openneuro.org/datasets/ds004100"
+                },
+                {
+                  "label": "ds004080",
+                  "destination": "https://openneuro.org/datasets/ds004080"
+                },
+                {
+                  "label": "ds003029",
+                  "destination": "https://openneuro.org/datasets/ds003029"
+                },
+                {
+                  "label": "ds004473",
+                  "destination": "https://openneuro.org/datasets/ds004473"
+                },
+                {
+                  "label": "ds003555",
+                  "destination": "https://openneuro.org/datasets/ds003555"
+                },
+                {
+                  "label": "ds004752",
+                  "destination": "https://openneuro.org/datasets/ds004752"
+                },
+                {
+                  "label": "ds003498",
+                  "destination": "https://openneuro.org/datasets/ds003498"
+                },
+                {
+                  "label": "ds004469",
+                  "destination": "https://openneuro.org/datasets/ds004469"
+                },
+                {
+                  "label": "ds001378",
+                  "destination": "https://openneuro.org/datasets/ds001378"
+                },
+                {
+                  "label": "ds003999",
+                  "destination": "https://openneuro.org/datasets/ds003999"
+                },
+                {
+                  "label": "ds004632",
+                  "destination": "https://openneuro.org/datasets/ds004632"
+                },
+                {
+                  "label": "ds004498",
+                  "destination": "https://openneuro.org/datasets/ds004498"
+                },
+                {
+                  "label": "ds003949",
+                  "destination": "https://openneuro.org/datasets/ds003949"
+                },
+                {
+                  "label": "ds000204",
+                  "destination": "https://openneuro.org/datasets/ds000204"
+                },
+                {
+                  "label": "ds003522",
+                  "destination": "https://openneuro.org/datasets/ds003522"
+                },
+                {
+                  "label": "ds003523",
+                  "destination": "https://openneuro.org/datasets/ds003523"
+                },
+                {
+                  "label": "ds002675",
+                  "destination": "https://openneuro.org/datasets/ds002675"
+                },
+                {
+                  "label": "ds000220",
+                  "destination": "https://openneuro.org/datasets/ds000220"
+                },
+                {
+                  "label": "ds004504",
+                  "destination": "https://openneuro.org/datasets/ds004504"
+                },
+                {
+                  "label": "ds003417",
+                  "destination": "https://openneuro.org/datasets/ds003417"
+                },
+                {
+                  "label": "ds000206",
+                  "destination": "https://openneuro.org/datasets/ds000206"
+                },
+                {
+                  "label": "ds002181",
+                  "destination": "https://openneuro.org/datasets/ds002181"
+                },
+                {
+                  "label": "ds002016",
+                  "destination": "https://openneuro.org/datasets/ds002016"
+                },
+                {
+                  "label": "ds002040",
+                  "destination": "https://openneuro.org/datasets/ds002040"
+                },
+                {
+                  "label": "ds004579",
+                  "destination": "https://openneuro.org/datasets/ds004579"
+                },
+                {
+                  "label": "ds003195",
+                  "destination": "https://openneuro.org/datasets/ds003195"
+                },
+                {
+                  "label": "ds004738",
+                  "destination": "https://openneuro.org/datasets/ds004738"
+                },
+                {
+                  "label": "ds004574",
+                  "destination": "https://openneuro.org/datasets/ds004574"
+                },
+                {
+                  "label": "ds004392",
+                  "destination": "https://openneuro.org/datasets/ds004392"
+                },
+                {
+                  "label": "ds003194",
+                  "destination": "https://openneuro.org/datasets/ds003194"
+                },
+                {
+                  "label": "ds004584",
+                  "destination": "https://openneuro.org/datasets/ds004584"
+                },
+                {
+                  "label": "ds002778",
+                  "destination": "https://openneuro.org/datasets/ds002778"
+                },
+                {
+                  "label": "ds004580",
+                  "destination": "https://openneuro.org/datasets/ds004580"
+                },
+                {
+                  "label": "ds003509",
+                  "destination": "https://openneuro.org/datasets/ds003509"
+                },
+                {
+                  "label": "ds003490",
+                  "destination": "https://openneuro.org/datasets/ds003490"
+                },
+                {
+                  "label": "ds003506",
+                  "destination": "https://openneuro.org/datasets/ds003506"
+                },
+                {
+                  "label": "ds001907",
+                  "destination": "https://openneuro.org/datasets/ds001907"
+                },
+                {
+                  "label": "ds004471",
+                  "destination": "https://openneuro.org/datasets/ds004471"
+                },
+                {
+                  "label": "ds003325",
+                  "destination": "https://openneuro.org/datasets/ds003325"
+                },
+                {
+                  "label": "ds004441",
+                  "destination": "https://openneuro.org/datasets/ds004441"
+                },
+                {
+                  "label": "ds003800",
+                  "destination": "https://openneuro.org/datasets/ds003800"
+                },
+                {
+                  "label": "ds004767",
+                  "destination": "https://openneuro.org/datasets/ds004767"
+                },
+                {
+                  "label": "ds002134",
+                  "destination": "https://openneuro.org/datasets/ds002134"
+                },
+                {
+                  "label": "ds003805",
+                  "destination": "https://openneuro.org/datasets/ds003805"
+                },
+                {
+                  "label": "ds003590",
+                  "destination": "https://openneuro.org/datasets/ds003590"
+                },
+                {
+                  "label": "ds003520",
+                  "destination": "https://openneuro.org/datasets/ds003520"
+                },
+                {
+                  "label": "ds004598",
+                  "destination": "https://openneuro.org/datasets/ds004598"
+                },
+                {
+                  "label": "ds003463",
+                  "destination": "https://openneuro.org/datasets/ds003463"
+                },
+                {
+                  "label": "ds001890",
+                  "destination": "https://openneuro.org/datasets/ds001890"
+                },
+                {
+                  "label": "ds001945",
+                  "destination": "https://openneuro.org/datasets/ds001945"
+                },
+                {
+                  "label": "ds004116",
+                  "destination": "https://openneuro.org/datasets/ds004116"
+                },
+                {
+                  "label": "ds002080",
+                  "destination": "https://openneuro.org/datasets/ds002080"
+                },
+                {
+                  "label": "ds001226",
+                  "destination": "https://openneuro.org/datasets/ds001226"
+                }
+              ],
+              "children": [
+                {
+                  "label": "brain disease",
+                  "iri": "DOID:936",
+                  "info": [
+                    {
+                      "label": "ds003453",
+                      "destination": "https://openneuro.org/datasets/ds003453"
+                    },
+                    {
+                      "label": "ds003455",
+                      "destination": "https://openneuro.org/datasets/ds003455"
+                    },
+                    {
+                      "label": "ds003848",
+                      "destination": "https://openneuro.org/datasets/ds003848"
+                    },
+                    {
+                      "label": "ds004199",
+                      "destination": "https://openneuro.org/datasets/ds004199"
+                    },
+                    {
+                      "label": "ds003374",
+                      "destination": "https://openneuro.org/datasets/ds003374"
+                    },
+                    {
+                      "label": "ds002799",
+                      "destination": "https://openneuro.org/datasets/ds002799"
+                    },
+                    {
+                      "label": "ds004770",
+                      "destination": "https://openneuro.org/datasets/ds004770"
+                    },
+                    {
+                      "label": "ds004798",
+                      "destination": "https://openneuro.org/datasets/ds004798"
+                    },
+                    {
+                      "label": "ds004194",
+                      "destination": "https://openneuro.org/datasets/ds004194"
+                    },
+                    {
+                      "label": "ds003844",
+                      "destination": "https://openneuro.org/datasets/ds003844"
+                    },
+                    {
+                      "label": "ds003876",
+                      "destination": "https://openneuro.org/datasets/ds003876"
+                    },
+                    {
+                      "label": "ds004100",
+                      "destination": "https://openneuro.org/datasets/ds004100"
+                    },
+                    {
+                      "label": "ds004080",
+                      "destination": "https://openneuro.org/datasets/ds004080"
+                    },
+                    {
+                      "label": "ds003029",
+                      "destination": "https://openneuro.org/datasets/ds003029"
+                    },
+                    {
+                      "label": "ds004473",
+                      "destination": "https://openneuro.org/datasets/ds004473"
+                    },
+                    {
+                      "label": "ds003555",
+                      "destination": "https://openneuro.org/datasets/ds003555"
+                    },
+                    {
+                      "label": "ds004752",
+                      "destination": "https://openneuro.org/datasets/ds004752"
+                    },
+                    {
+                      "label": "ds003498",
+                      "destination": "https://openneuro.org/datasets/ds003498"
+                    },
+                    {
+                      "label": "ds004469",
+                      "destination": "https://openneuro.org/datasets/ds004469"
+                    },
+                    {
+                      "label": "ds001378",
+                      "destination": "https://openneuro.org/datasets/ds001378"
+                    },
+                    {
+                      "label": "ds003999",
+                      "destination": "https://openneuro.org/datasets/ds003999"
+                    },
+                    {
+                      "label": "ds004632",
+                      "destination": "https://openneuro.org/datasets/ds004632"
+                    },
+                    {
+                      "label": "ds004498",
+                      "destination": "https://openneuro.org/datasets/ds004498"
+                    },
+                    {
+                      "label": "ds003949",
+                      "destination": "https://openneuro.org/datasets/ds003949"
+                    },
+                    {
+                      "label": "ds000204",
+                      "destination": "https://openneuro.org/datasets/ds000204"
+                    },
+                    {
+                      "label": "ds003522",
+                      "destination": "https://openneuro.org/datasets/ds003522"
+                    },
+                    {
+                      "label": "ds003523",
+                      "destination": "https://openneuro.org/datasets/ds003523"
+                    },
+                    {
+                      "label": "ds002675",
+                      "destination": "https://openneuro.org/datasets/ds002675"
+                    },
+                    {
+                      "label": "ds000220",
+                      "destination": "https://openneuro.org/datasets/ds000220"
+                    },
+                    {
+                      "label": "ds004504",
+                      "destination": "https://openneuro.org/datasets/ds004504"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "epilepsy",
+                      "iri": "DOID:1826",
+                      "info": [
+                        {
+                          "label": "ds003848",
+                          "destination": "https://openneuro.org/datasets/ds003848"
+                        },
+                        {
+                          "label": "ds004199",
+                          "destination": "https://openneuro.org/datasets/ds004199"
+                        },
+                        {
+                          "label": "ds003374",
+                          "destination": "https://openneuro.org/datasets/ds003374"
+                        },
+                        {
+                          "label": "ds002799",
+                          "destination": "https://openneuro.org/datasets/ds002799"
+                        },
+                        {
+                          "label": "ds004770",
+                          "destination": "https://openneuro.org/datasets/ds004770"
+                        },
+                        {
+                          "label": "ds004798",
+                          "destination": "https://openneuro.org/datasets/ds004798"
+                        },
+                        {
+                          "label": "ds004194",
+                          "destination": "https://openneuro.org/datasets/ds004194"
+                        },
+                        {
+                          "label": "ds003844",
+                          "destination": "https://openneuro.org/datasets/ds003844"
+                        },
+                        {
+                          "label": "ds003876",
+                          "destination": "https://openneuro.org/datasets/ds003876"
+                        },
+                        {
+                          "label": "ds004100",
+                          "destination": "https://openneuro.org/datasets/ds004100"
+                        },
+                        {
+                          "label": "ds004080",
+                          "destination": "https://openneuro.org/datasets/ds004080"
+                        },
+                        {
+                          "label": "ds003029",
+                          "destination": "https://openneuro.org/datasets/ds003029"
+                        },
+                        {
+                          "label": "ds004473",
+                          "destination": "https://openneuro.org/datasets/ds004473"
+                        },
+                        {
+                          "label": "ds003555",
+                          "destination": "https://openneuro.org/datasets/ds003555"
+                        },
+                        {
+                          "label": "ds004752",
+                          "destination": "https://openneuro.org/datasets/ds004752"
+                        },
+                        {
+                          "label": "ds003498",
+                          "destination": "https://openneuro.org/datasets/ds003498"
+                        },
+                        {
+                          "label": "ds004469",
+                          "destination": "https://openneuro.org/datasets/ds004469"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "focal epilepsy",
+                          "iri": "DOID:2234",
+                          "info": [
+                            {
+                              "label": "ds003848",
+                              "destination": "https://openneuro.org/datasets/ds003848"
+                            },
+                            {
+                              "label": "ds004199",
+                              "destination": "https://openneuro.org/datasets/ds004199"
+                            },
+                            {
+                              "label": "ds003374",
+                              "destination": "https://openneuro.org/datasets/ds003374"
+                            },
+                            {
+                              "label": "ds002799",
+                              "destination": "https://openneuro.org/datasets/ds002799"
+                            },
+                            {
+                              "label": "ds004770",
+                              "destination": "https://openneuro.org/datasets/ds004770"
+                            },
+                            {
+                              "label": "ds004798",
+                              "destination": "https://openneuro.org/datasets/ds004798"
+                            },
+                            {
+                              "label": "ds004194",
+                              "destination": "https://openneuro.org/datasets/ds004194"
+                            },
+                            {
+                              "label": "ds003844",
+                              "destination": "https://openneuro.org/datasets/ds003844"
+                            },
+                            {
+                              "label": "ds003876",
+                              "destination": "https://openneuro.org/datasets/ds003876"
+                            },
+                            {
+                              "label": "ds004100",
+                              "destination": "https://openneuro.org/datasets/ds004100"
+                            },
+                            {
+                              "label": "ds004080",
+                              "destination": "https://openneuro.org/datasets/ds004080"
+                            },
+                            {
+                              "label": "ds003029",
+                              "destination": "https://openneuro.org/datasets/ds003029"
+                            },
+                            {
+                              "label": "ds004473",
+                              "destination": "https://openneuro.org/datasets/ds004473"
+                            },
+                            {
+                              "label": "ds003555",
+                              "destination": "https://openneuro.org/datasets/ds003555"
+                            },
+                            {
+                              "label": "ds004752",
+                              "destination": "https://openneuro.org/datasets/ds004752"
+                            },
+                            {
+                              "label": "ds003498",
+                              "destination": "https://openneuro.org/datasets/ds003498"
+                            },
+                            {
+                              "label": "ds004469",
+                              "destination": "https://openneuro.org/datasets/ds004469"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "label": "temporal lobe epilepsy",
+                              "iri": "DOID:3328",
+                              "info": [
+                                {
+                                  "label": "ds003498",
+                                  "destination": "https://openneuro.org/datasets/ds003498"
+                                },
+                                {
+                                  "label": "ds004469",
+                                  "destination": "https://openneuro.org/datasets/ds004469"
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cerebellar disease",
+                      "iri": "DOID:2786",
+                      "info": [
+                        {
+                          "label": "ds001378",
+                          "destination": "https://openneuro.org/datasets/ds001378"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "cerebellar ataxia",
+                          "iri": "DOID:0050753",
+                          "info": [
+                            {
+                              "label": "ds001378",
+                              "destination": "https://openneuro.org/datasets/ds001378"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "label": "autosomal dominant cerebellar ataxia",
+                              "iri": "DOID:1441",
+                              "info": [
+                                {
+                                  "label": "ds001378",
+                                  "destination": "https://openneuro.org/datasets/ds001378"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "label": "spinocerebellar ataxia type 2",
+                                  "iri": "DOID:0050955",
+                                  "info": [
+                                    {
+                                      "label": "ds001378",
+                                      "destination": "https://openneuro.org/datasets/ds001378"
+                                    }
+                                  ],
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "cerebrovascular disease",
+                      "iri": "DOID:6713",
+                      "info": [
+                        {
+                          "label": "ds003999",
+                          "destination": "https://openneuro.org/datasets/ds003999"
+                        },
+                        {
+                          "label": "ds004632",
+                          "destination": "https://openneuro.org/datasets/ds004632"
+                        },
+                        {
+                          "label": "ds004498",
+                          "destination": "https://openneuro.org/datasets/ds004498"
+                        },
+                        {
+                          "label": "ds003949",
+                          "destination": "https://openneuro.org/datasets/ds003949"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "intracranial arterial disease",
+                          "iri": "DOID:13089",
+                          "info": [
+                            {
+                              "label": "ds003949",
+                              "destination": "https://openneuro.org/datasets/ds003949"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "label": "cerebral arterial disease",
+                              "iri": "DOID:3527",
+                              "info": [
+                                {
+                                  "label": "ds003949",
+                                  "destination": "https://openneuro.org/datasets/ds003949"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "label": "intracranial aneurysm",
+                                  "iri": "DOID:10941",
+                                  "info": [
+                                    {
+                                      "label": "ds003949",
+                                      "destination": "https://openneuro.org/datasets/ds003949"
+                                    }
+                                  ],
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "traumatic brain injury",
+                      "iri": "DOID:0081292",
+                      "info": [
+                        {
+                          "label": "ds000204",
+                          "destination": "https://openneuro.org/datasets/ds000204"
+                        },
+                        {
+                          "label": "ds003522",
+                          "destination": "https://openneuro.org/datasets/ds003522"
+                        },
+                        {
+                          "label": "ds003523",
+                          "destination": "https://openneuro.org/datasets/ds003523"
+                        },
+                        {
+                          "label": "ds002675",
+                          "destination": "https://openneuro.org/datasets/ds002675"
+                        },
+                        {
+                          "label": "ds000220",
+                          "destination": "https://openneuro.org/datasets/ds000220"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "label": "frontotemporal dementia",
+                      "iri": "DOID:9255",
+                      "info": [
+                        {
+                          "label": "ds004504",
+                          "destination": "https://openneuro.org/datasets/ds004504"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "label": "neurodegenerative disease",
+                  "iri": "DOID:1289",
+                  "info": [
+                    {
+                      "label": "ds003417",
+                      "destination": "https://openneuro.org/datasets/ds003417"
+                    },
+                    {
+                      "label": "ds001378",
+                      "destination": "https://openneuro.org/datasets/ds001378"
+                    },
+                    {
+                      "label": "ds000206",
+                      "destination": "https://openneuro.org/datasets/ds000206"
+                    },
+                    {
+                      "label": "ds002181",
+                      "destination": "https://openneuro.org/datasets/ds002181"
+                    },
+                    {
+                      "label": "ds002016",
+                      "destination": "https://openneuro.org/datasets/ds002016"
+                    },
+                    {
+                      "label": "ds002040",
+                      "destination": "https://openneuro.org/datasets/ds002040"
+                    },
+                    {
+                      "label": "ds004579",
+                      "destination": "https://openneuro.org/datasets/ds004579"
+                    },
+                    {
+                      "label": "ds003195",
+                      "destination": "https://openneuro.org/datasets/ds003195"
+                    },
+                    {
+                      "label": "ds004738",
+                      "destination": "https://openneuro.org/datasets/ds004738"
+                    },
+                    {
+                      "label": "ds004574",
+                      "destination": "https://openneuro.org/datasets/ds004574"
+                    },
+                    {
+                      "label": "ds004392",
+                      "destination": "https://openneuro.org/datasets/ds004392"
+                    },
+                    {
+                      "label": "ds003194",
+                      "destination": "https://openneuro.org/datasets/ds003194"
+                    },
+                    {
+                      "label": "ds004584",
+                      "destination": "https://openneuro.org/datasets/ds004584"
+                    },
+                    {
+                      "label": "ds002778",
+                      "destination": "https://openneuro.org/datasets/ds002778"
+                    },
+                    {
+                      "label": "ds004580",
+                      "destination": "https://openneuro.org/datasets/ds004580"
+                    },
+                    {
+                      "label": "ds003509",
+                      "destination": "https://openneuro.org/datasets/ds003509"
+                    },
+                    {
+                      "label": "ds003490",
+                      "destination": "https://openneuro.org/datasets/ds003490"
+                    },
+                    {
+                      "label": "ds003506",
+                      "destination": "https://openneuro.org/datasets/ds003506"
+                    },
+                    {
+                      "label": "ds001907",
+                      "destination": "https://openneuro.org/datasets/ds001907"
+                    },
+                    {
+                      "label": "ds004471",
+                      "destination": "https://openneuro.org/datasets/ds004471"
+                    },
+                    {
+                      "label": "ds003325",
+                      "destination": "https://openneuro.org/datasets/ds003325"
+                    },
+                    {
+                      "label": "ds004441",
+                      "destination": "https://openneuro.org/datasets/ds004441"
+                    },
+                    {
+                      "label": "ds003800",
+                      "destination": "https://openneuro.org/datasets/ds003800"
+                    },
+                    {
+                      "label": "ds004767",
+                      "destination": "https://openneuro.org/datasets/ds004767"
+                    },
+                    {
+                      "label": "ds002134",
+                      "destination": "https://openneuro.org/datasets/ds002134"
+                    },
+                    {
+                      "label": "ds003805",
+                      "destination": "https://openneuro.org/datasets/ds003805"
+                    },
+                    {
+                      "label": "ds000204",
+                      "destination": "https://openneuro.org/datasets/ds000204"
+                    },
+                    {
+                      "label": "ds003590",
+                      "destination": "https://openneuro.org/datasets/ds003590"
+                    },
+                    {
+                      "label": "ds003520",
+                      "destination": "https://openneuro.org/datasets/ds003520"
+                    },
+                    {
+                      "label": "ds004598",
+                      "destination": "https://openneuro.org/datasets/ds004598"
+                    },
+                    {
+                      "label": "ds003463",
+                      "destination": "https://openneuro.org/datasets/ds003463"
+                    },
+                    {
+                      "label": "ds001890",
+                      "destination": "https://openneuro.org/datasets/ds001890"
+                    },
+                    {
+                      "label": "ds001945",
+                      "destination": "https://openneuro.org/datasets/ds001945"
+                    },
+                    {
+                      "label": "ds004504",
+                      "destination": "https://openneuro.org/datasets/ds004504"
+                    },
+                    {
+                      "label": "ds004116",
+                      "destination": "https://openneuro.org/datasets/ds004116"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "hereditary ataxia",
+                      "iri": "DOID:0050951",
+                      "info": [
+                        {
+                          "label": "ds001378",
+                          "destination": "https://openneuro.org/datasets/ds001378"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "cerebellar ataxia",
+                          "iri": "DOID:0050753",
+                          "info": [
+                            {
+                              "label": "ds001378",
+                              "destination": "https://openneuro.org/datasets/ds001378"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "label": "autosomal dominant cerebellar ataxia",
+                              "iri": "DOID:1441",
+                              "info": [
+                                {
+                                  "label": "ds001378",
+                                  "destination": "https://openneuro.org/datasets/ds001378"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "label": "spinocerebellar ataxia type 2",
+                                  "iri": "DOID:0050955",
+                                  "info": [
+                                    {
+                                      "label": "ds001378",
+                                      "destination": "https://openneuro.org/datasets/ds001378"
+                                    }
+                                  ],
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Huntington's disease",
+                      "iri": "DOID:12858",
+                      "info": [
+                        {
+                          "label": "ds000206",
+                          "destination": "https://openneuro.org/datasets/ds000206"
+                        },
+                        {
+                          "label": "ds002181",
+                          "destination": "https://openneuro.org/datasets/ds002181"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "label": "synucleinopathy",
+                      "iri": "DOID:0050890",
+                      "info": [
+                        {
+                          "label": "ds002016",
+                          "destination": "https://openneuro.org/datasets/ds002016"
+                        },
+                        {
+                          "label": "ds002040",
+                          "destination": "https://openneuro.org/datasets/ds002040"
+                        },
+                        {
+                          "label": "ds004579",
+                          "destination": "https://openneuro.org/datasets/ds004579"
+                        },
+                        {
+                          "label": "ds003195",
+                          "destination": "https://openneuro.org/datasets/ds003195"
+                        },
+                        {
+                          "label": "ds004738",
+                          "destination": "https://openneuro.org/datasets/ds004738"
+                        },
+                        {
+                          "label": "ds004574",
+                          "destination": "https://openneuro.org/datasets/ds004574"
+                        },
+                        {
+                          "label": "ds004392",
+                          "destination": "https://openneuro.org/datasets/ds004392"
+                        },
+                        {
+                          "label": "ds003194",
+                          "destination": "https://openneuro.org/datasets/ds003194"
+                        },
+                        {
+                          "label": "ds004584",
+                          "destination": "https://openneuro.org/datasets/ds004584"
+                        },
+                        {
+                          "label": "ds002778",
+                          "destination": "https://openneuro.org/datasets/ds002778"
+                        },
+                        {
+                          "label": "ds004580",
+                          "destination": "https://openneuro.org/datasets/ds004580"
+                        },
+                        {
+                          "label": "ds003509",
+                          "destination": "https://openneuro.org/datasets/ds003509"
+                        },
+                        {
+                          "label": "ds003490",
+                          "destination": "https://openneuro.org/datasets/ds003490"
+                        },
+                        {
+                          "label": "ds003506",
+                          "destination": "https://openneuro.org/datasets/ds003506"
+                        },
+                        {
+                          "label": "ds001907",
+                          "destination": "https://openneuro.org/datasets/ds001907"
+                        },
+                        {
+                          "label": "ds004471",
+                          "destination": "https://openneuro.org/datasets/ds004471"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "Parkinson's disease",
+                          "iri": "DOID:14330",
+                          "info": [
+                            {
+                              "label": "ds002016",
+                              "destination": "https://openneuro.org/datasets/ds002016"
+                            },
+                            {
+                              "label": "ds002040",
+                              "destination": "https://openneuro.org/datasets/ds002040"
+                            },
+                            {
+                              "label": "ds004579",
+                              "destination": "https://openneuro.org/datasets/ds004579"
+                            },
+                            {
+                              "label": "ds003195",
+                              "destination": "https://openneuro.org/datasets/ds003195"
+                            },
+                            {
+                              "label": "ds004738",
+                              "destination": "https://openneuro.org/datasets/ds004738"
+                            },
+                            {
+                              "label": "ds004574",
+                              "destination": "https://openneuro.org/datasets/ds004574"
+                            },
+                            {
+                              "label": "ds004392",
+                              "destination": "https://openneuro.org/datasets/ds004392"
+                            },
+                            {
+                              "label": "ds003194",
+                              "destination": "https://openneuro.org/datasets/ds003194"
+                            },
+                            {
+                              "label": "ds004584",
+                              "destination": "https://openneuro.org/datasets/ds004584"
+                            },
+                            {
+                              "label": "ds002778",
+                              "destination": "https://openneuro.org/datasets/ds002778"
+                            },
+                            {
+                              "label": "ds004580",
+                              "destination": "https://openneuro.org/datasets/ds004580"
+                            },
+                            {
+                              "label": "ds003509",
+                              "destination": "https://openneuro.org/datasets/ds003509"
+                            },
+                            {
+                              "label": "ds003490",
+                              "destination": "https://openneuro.org/datasets/ds003490"
+                            },
+                            {
+                              "label": "ds003506",
+                              "destination": "https://openneuro.org/datasets/ds003506"
+                            },
+                            {
+                              "label": "ds001907",
+                              "destination": "https://openneuro.org/datasets/ds001907"
+                            },
+                            {
+                              "label": "ds004471",
+                              "destination": "https://openneuro.org/datasets/ds004471"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "label": "motor neuron disease",
+                      "iri": "DOID:231",
+                      "info": [
+                        {
+                          "label": "ds003325",
+                          "destination": "https://openneuro.org/datasets/ds003325"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "amyotrophic lateral sclerosis",
+                          "iri": "DOID:332",
+                          "info": [
+                            {
+                              "label": "ds003325",
+                              "destination": "https://openneuro.org/datasets/ds003325"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "label": "tauopathy",
+                      "iri": "DOID:680",
+                      "info": [
+                        {
+                          "label": "ds004441",
+                          "destination": "https://openneuro.org/datasets/ds004441"
+                        },
+                        {
+                          "label": "ds003800",
+                          "destination": "https://openneuro.org/datasets/ds003800"
+                        },
+                        {
+                          "label": "ds004767",
+                          "destination": "https://openneuro.org/datasets/ds004767"
+                        },
+                        {
+                          "label": "ds002134",
+                          "destination": "https://openneuro.org/datasets/ds002134"
+                        },
+                        {
+                          "label": "ds003417",
+                          "destination": "https://openneuro.org/datasets/ds003417"
+                        },
+                        {
+                          "label": "ds003805",
+                          "destination": "https://openneuro.org/datasets/ds003805"
+                        },
+                        {
+                          "label": "ds000204",
+                          "destination": "https://openneuro.org/datasets/ds000204"
+                        },
+                        {
+                          "label": "ds003590",
+                          "destination": "https://openneuro.org/datasets/ds003590"
+                        },
+                        {
+                          "label": "ds003520",
+                          "destination": "https://openneuro.org/datasets/ds003520"
+                        },
+                        {
+                          "label": "ds004598",
+                          "destination": "https://openneuro.org/datasets/ds004598"
+                        },
+                        {
+                          "label": "ds003463",
+                          "destination": "https://openneuro.org/datasets/ds003463"
+                        },
+                        {
+                          "label": "ds001890",
+                          "destination": "https://openneuro.org/datasets/ds001890"
+                        },
+                        {
+                          "label": "ds001945",
+                          "destination": "https://openneuro.org/datasets/ds001945"
+                        },
+                        {
+                          "label": "ds004504",
+                          "destination": "https://openneuro.org/datasets/ds004504"
+                        },
+                        {
+                          "label": "ds004116",
+                          "destination": "https://openneuro.org/datasets/ds004116"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "Alzheimer's disease",
+                          "iri": "DOID:10652",
+                          "info": [
+                            {
+                              "label": "ds004441",
+                              "destination": "https://openneuro.org/datasets/ds004441"
+                            },
+                            {
+                              "label": "ds003800",
+                              "destination": "https://openneuro.org/datasets/ds003800"
+                            },
+                            {
+                              "label": "ds004767",
+                              "destination": "https://openneuro.org/datasets/ds004767"
+                            },
+                            {
+                              "label": "ds002134",
+                              "destination": "https://openneuro.org/datasets/ds002134"
+                            },
+                            {
+                              "label": "ds003417",
+                              "destination": "https://openneuro.org/datasets/ds003417"
+                            },
+                            {
+                              "label": "ds003805",
+                              "destination": "https://openneuro.org/datasets/ds003805"
+                            },
+                            {
+                              "label": "ds000204",
+                              "destination": "https://openneuro.org/datasets/ds000204"
+                            },
+                            {
+                              "label": "ds003590",
+                              "destination": "https://openneuro.org/datasets/ds003590"
+                            },
+                            {
+                              "label": "ds003520",
+                              "destination": "https://openneuro.org/datasets/ds003520"
+                            },
+                            {
+                              "label": "ds004598",
+                              "destination": "https://openneuro.org/datasets/ds004598"
+                            },
+                            {
+                              "label": "ds003463",
+                              "destination": "https://openneuro.org/datasets/ds003463"
+                            },
+                            {
+                              "label": "ds001890",
+                              "destination": "https://openneuro.org/datasets/ds001890"
+                            },
+                            {
+                              "label": "ds001945",
+                              "destination": "https://openneuro.org/datasets/ds001945"
+                            },
+                            {
+                              "label": "ds004504",
+                              "destination": "https://openneuro.org/datasets/ds004504"
+                            },
+                            {
+                              "label": "ds004116",
+                              "destination": "https://openneuro.org/datasets/ds004116"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "central nervous system cancer",
+                  "iri": "DOID:3620",
+                  "info": [
+                    {
+                      "label": "ds002080",
+                      "destination": "https://openneuro.org/datasets/ds002080"
+                    },
+                    {
+                      "label": "ds001226",
+                      "destination": "https://openneuro.org/datasets/ds001226"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "meningioma",
+                      "iri": "DOID:3565",
+                      "info": [
+                        {
+                          "label": "ds002080",
+                          "destination": "https://openneuro.org/datasets/ds002080"
+                        },
+                        {
+                          "label": "ds001226",
+                          "destination": "https://openneuro.org/datasets/ds001226"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "cardiovascular system disease",
+          "iri": "DOID:1287",
+          "info": [
+            {
+              "label": "ds003949",
+              "destination": "https://openneuro.org/datasets/ds003949"
+            },
+            {
+              "label": "ds003999",
+              "destination": "https://openneuro.org/datasets/ds003999"
+            },
+            {
+              "label": "ds004632",
+              "destination": "https://openneuro.org/datasets/ds004632"
+            },
+            {
+              "label": "ds004498",
+              "destination": "https://openneuro.org/datasets/ds004498"
+            }
+          ],
+          "children": [
+            {
+              "label": "vascular disease",
+              "iri": "DOID:178",
+              "info": [
+                {
+                  "label": "ds003949",
+                  "destination": "https://openneuro.org/datasets/ds003949"
+                },
+                {
+                  "label": "ds003999",
+                  "destination": "https://openneuro.org/datasets/ds003999"
+                },
+                {
+                  "label": "ds004632",
+                  "destination": "https://openneuro.org/datasets/ds004632"
+                },
+                {
+                  "label": "ds004498",
+                  "destination": "https://openneuro.org/datasets/ds004498"
+                }
+              ],
+              "children": [
+                {
+                  "label": "artery disease",
+                  "iri": "DOID:0050828",
+                  "info": [
+                    {
+                      "label": "ds003949",
+                      "destination": "https://openneuro.org/datasets/ds003949"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "cerebral arterial disease",
+                      "iri": "DOID:3527",
+                      "info": [
+                        {
+                          "label": "ds003949",
+                          "destination": "https://openneuro.org/datasets/ds003949"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "intracranial aneurysm",
+                          "iri": "DOID:10941",
+                          "info": [
+                            {
+                              "label": "ds003949",
+                              "destination": "https://openneuro.org/datasets/ds003949"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "cerebrovascular disease",
+                  "iri": "DOID:6713",
+                  "info": [
+                    {
+                      "label": "ds003999",
+                      "destination": "https://openneuro.org/datasets/ds003999"
+                    },
+                    {
+                      "label": "ds004632",
+                      "destination": "https://openneuro.org/datasets/ds004632"
+                    },
+                    {
+                      "label": "ds004498",
+                      "destination": "https://openneuro.org/datasets/ds004498"
+                    },
+                    {
+                      "label": "ds003949",
+                      "destination": "https://openneuro.org/datasets/ds003949"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "intracranial arterial disease",
+                      "iri": "DOID:13089",
+                      "info": [
+                        {
+                          "label": "ds003949",
+                          "destination": "https://openneuro.org/datasets/ds003949"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "cerebral arterial disease",
+                          "iri": "DOID:3527",
+                          "info": [
+                            {
+                              "label": "ds003949",
+                              "destination": "https://openneuro.org/datasets/ds003949"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "label": "intracranial aneurysm",
+                              "iri": "DOID:10941",
+                              "info": [
+                                {
+                                  "label": "ds003949",
+                                  "destination": "https://openneuro.org/datasets/ds003949"
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "syndrome",
+      "iri": "DOID:225",
+      "info": [
+        {
+          "label": "ds004644",
+          "destination": "https://openneuro.org/datasets/ds004644"
+        },
+        {
+          "label": "ds001928",
+          "destination": "https://openneuro.org/datasets/ds001928"
+        },
+        {
+          "label": "ds004144",
+          "destination": "https://openneuro.org/datasets/ds004144"
+        }
+      ],
+      "children": [
+        {
+          "label": "fibromyalgia",
+          "iri": "DOID:631",
+          "info": [
+            {
+              "label": "ds001928",
+              "destination": "https://openneuro.org/datasets/ds001928"
+            },
+            {
+              "label": "ds004144",
+              "destination": "https://openneuro.org/datasets/ds004144"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "disease of metabolism",
+      "iri": "DOID:0014667",
+      "info": [
+        {
+          "label": "ds004019",
+          "destination": "https://openneuro.org/datasets/ds004019"
+        },
+        {
+          "label": "ds002419",
+          "destination": "https://openneuro.org/datasets/ds002419"
+        },
+        {
+          "label": "ds004151",
+          "destination": "https://openneuro.org/datasets/ds004151"
+        },
+        {
+          "label": "ds004145",
+          "destination": "https://openneuro.org/datasets/ds004145"
+        }
+      ],
+      "children": [
+        {
+          "label": "acquired metabolic disease",
+          "iri": "DOID:0060158",
+          "info": [
+            {
+              "label": "ds004019",
+              "destination": "https://openneuro.org/datasets/ds004019"
+            },
+            {
+              "label": "ds002419",
+              "destination": "https://openneuro.org/datasets/ds002419"
+            },
+            {
+              "label": "ds004151",
+              "destination": "https://openneuro.org/datasets/ds004151"
+            }
+          ],
+          "children": [
+            {
+              "label": "nutrition disease",
+              "iri": "DOID:374",
+              "info": [
+                {
+                  "label": "ds004019",
+                  "destination": "https://openneuro.org/datasets/ds004019"
+                },
+                {
+                  "label": "ds002419",
+                  "destination": "https://openneuro.org/datasets/ds002419"
+                },
+                {
+                  "label": "ds004151",
+                  "destination": "https://openneuro.org/datasets/ds004151"
+                }
+              ],
+              "children": [
+                {
+                  "label": "overnutrition",
+                  "iri": "DOID:654",
+                  "info": [
+                    {
+                      "label": "ds004019",
+                      "destination": "https://openneuro.org/datasets/ds004019"
+                    },
+                    {
+                      "label": "ds002419",
+                      "destination": "https://openneuro.org/datasets/ds002419"
+                    },
+                    {
+                      "label": "ds004151",
+                      "destination": "https://openneuro.org/datasets/ds004151"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "obesity",
+                      "iri": "DOID:9970",
+                      "info": [
+                        {
+                          "label": "ds004019",
+                          "destination": "https://openneuro.org/datasets/ds004019"
+                        },
+                        {
+                          "label": "ds002419",
+                          "destination": "https://openneuro.org/datasets/ds002419"
+                        },
+                        {
+                          "label": "ds004151",
+                          "destination": "https://openneuro.org/datasets/ds004151"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "inherited metabolic disorder",
+          "iri": "DOID:655",
+          "info": [
+            {
+              "label": "ds002419",
+              "destination": "https://openneuro.org/datasets/ds002419"
+            },
+            {
+              "label": "ds004145",
+              "destination": "https://openneuro.org/datasets/ds004145"
+            }
+          ],
+          "children": [
+            {
+              "label": "carbohydrate metabolic disorder",
+              "iri": "DOID:2978",
+              "info": [
+                {
+                  "label": "ds002419",
+                  "destination": "https://openneuro.org/datasets/ds002419"
+                },
+                {
+                  "label": "ds004145",
+                  "destination": "https://openneuro.org/datasets/ds004145"
+                }
+              ],
+              "children": [
+                {
+                  "label": "glucose metabolism disease",
+                  "iri": "DOID:4194",
+                  "info": [
+                    {
+                      "label": "ds002419",
+                      "destination": "https://openneuro.org/datasets/ds002419"
+                    },
+                    {
+                      "label": "ds004145",
+                      "destination": "https://openneuro.org/datasets/ds004145"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "diabetes mellitus",
+                      "iri": "DOID:9351",
+                      "info": [
+                        {
+                          "label": "ds002419",
+                          "destination": "https://openneuro.org/datasets/ds002419"
+                        },
+                        {
+                          "label": "ds004145",
+                          "destination": "https://openneuro.org/datasets/ds004145"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "gestational diabetes",
+                          "iri": "DOID:11714",
+                          "info": [
+                            {
+                              "label": "ds004145",
+                              "destination": "https://openneuro.org/datasets/ds004145"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "genetic disease",
+      "iri": "DOID:630",
+      "info": [
+        {
+          "label": "ds004644",
+          "destination": "https://openneuro.org/datasets/ds004644"
+        },
+        {
+          "label": "ds002419",
+          "destination": "https://openneuro.org/datasets/ds002419"
+        },
+        {
+          "label": "ds004145",
+          "destination": "https://openneuro.org/datasets/ds004145"
+        },
+        {
+          "label": "ds001378",
+          "destination": "https://openneuro.org/datasets/ds001378"
+        }
+      ],
+      "children": [
+        {
+          "label": "chromosomal disease",
+          "iri": "DOID:0080014",
+          "info": [
+            {
+              "label": "ds004644",
+              "destination": "https://openneuro.org/datasets/ds004644"
+            }
+          ],
+          "children": [
+            {
+              "label": "chromosomal duplication syndrome",
+              "iri": "DOID:0060429",
+              "info": [
+                {
+                  "label": "ds004644",
+                  "destination": "https://openneuro.org/datasets/ds004644"
+                }
+              ],
+              "children": [
+                {
+                  "label": "Down syndrome",
+                  "iri": "DOID:14250",
+                  "info": [
+                    {
+                      "label": "ds004644",
+                      "destination": "https://openneuro.org/datasets/ds004644"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "inherited metabolic disorder",
+          "iri": "DOID:655",
+          "info": [
+            {
+              "label": "ds002419",
+              "destination": "https://openneuro.org/datasets/ds002419"
+            },
+            {
+              "label": "ds004145",
+              "destination": "https://openneuro.org/datasets/ds004145"
+            }
+          ],
+          "children": [
+            {
+              "label": "carbohydrate metabolic disorder",
+              "iri": "DOID:2978",
+              "info": [
+                {
+                  "label": "ds002419",
+                  "destination": "https://openneuro.org/datasets/ds002419"
+                },
+                {
+                  "label": "ds004145",
+                  "destination": "https://openneuro.org/datasets/ds004145"
+                }
+              ],
+              "children": [
+                {
+                  "label": "glucose metabolism disease",
+                  "iri": "DOID:4194",
+                  "info": [
+                    {
+                      "label": "ds002419",
+                      "destination": "https://openneuro.org/datasets/ds002419"
+                    },
+                    {
+                      "label": "ds004145",
+                      "destination": "https://openneuro.org/datasets/ds004145"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "diabetes mellitus",
+                      "iri": "DOID:9351",
+                      "info": [
+                        {
+                          "label": "ds002419",
+                          "destination": "https://openneuro.org/datasets/ds002419"
+                        },
+                        {
+                          "label": "ds004145",
+                          "destination": "https://openneuro.org/datasets/ds004145"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "gestational diabetes",
+                          "iri": "DOID:11714",
+                          "info": [
+                            {
+                              "label": "ds004145",
+                              "destination": "https://openneuro.org/datasets/ds004145"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "monogenic disease",
+          "iri": "DOID:0050177",
+          "info": [
+            {
+              "label": "ds001378",
+              "destination": "https://openneuro.org/datasets/ds001378"
+            }
+          ],
+          "children": [
+            {
+              "label": "autosomal genetic disease",
+              "iri": "DOID:0050739",
+              "info": [
+                {
+                  "label": "ds001378",
+                  "destination": "https://openneuro.org/datasets/ds001378"
+                }
+              ],
+              "children": [
+                {
+                  "label": "autosomal dominant disease",
+                  "iri": "DOID:0050736",
+                  "info": [
+                    {
+                      "label": "ds001378",
+                      "destination": "https://openneuro.org/datasets/ds001378"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "autosomal dominant cerebellar ataxia",
+                      "iri": "DOID:1441",
+                      "info": [
+                        {
+                          "label": "ds001378",
+                          "destination": "https://openneuro.org/datasets/ds001378"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "spinocerebellar ataxia type 2",
+                          "iri": "DOID:0050955",
+                          "info": [
+                            {
+                              "label": "ds001378",
+                              "destination": "https://openneuro.org/datasets/ds001378"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "disease of cellular proliferation",
+      "iri": "DOID:14566",
+      "info": [
+        {
+          "label": "ds002080",
+          "destination": "https://openneuro.org/datasets/ds002080"
+        },
+        {
+          "label": "ds001226",
+          "destination": "https://openneuro.org/datasets/ds001226"
+        }
+      ],
+      "children": [
+        {
+          "label": "cancer",
+          "iri": "DOID:162",
+          "info": [
+            {
+              "label": "ds002080",
+              "destination": "https://openneuro.org/datasets/ds002080"
+            },
+            {
+              "label": "ds001226",
+              "destination": "https://openneuro.org/datasets/ds001226"
+            }
+          ],
+          "children": [
+            {
+              "label": "organ system cancer",
+              "iri": "DOID:0050686",
+              "info": [
+                {
+                  "label": "ds002080",
+                  "destination": "https://openneuro.org/datasets/ds002080"
+                },
+                {
+                  "label": "ds001226",
+                  "destination": "https://openneuro.org/datasets/ds001226"
+                }
+              ],
+              "children": [
+                {
+                  "label": "nervous system cancer",
+                  "iri": "DOID:3093",
+                  "info": [
+                    {
+                      "label": "ds002080",
+                      "destination": "https://openneuro.org/datasets/ds002080"
+                    },
+                    {
+                      "label": "ds001226",
+                      "destination": "https://openneuro.org/datasets/ds001226"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "central nervous system cancer",
+                      "iri": "DOID:3620",
+                      "info": [
+                        {
+                          "label": "ds002080",
+                          "destination": "https://openneuro.org/datasets/ds002080"
+                        },
+                        {
+                          "label": "ds001226",
+                          "destination": "https://openneuro.org/datasets/ds001226"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "meningioma",
+                          "iri": "DOID:3565",
+                          "info": [
+                            {
+                              "label": "ds002080",
+                              "destination": "https://openneuro.org/datasets/ds002080"
+                            },
+                            {
+                              "label": "ds001226",
+                              "destination": "https://openneuro.org/datasets/ds001226"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "disease of mental health",
+      "iri": "DOID:150",
+      "info": [
+        {
+          "label": "ds004186",
+          "destination": "https://openneuro.org/datasets/ds004186"
+        },
+        {
+          "label": "ds004791",
+          "destination": "https://openneuro.org/datasets/ds004791"
+        },
+        {
+          "label": "ds000170",
+          "destination": "https://openneuro.org/datasets/ds000170"
+        },
+        {
+          "label": "ds001486",
+          "destination": "https://openneuro.org/datasets/ds001486"
+        },
+        {
+          "label": "ds002236",
+          "destination": "https://openneuro.org/datasets/ds002236"
+        },
+        {
+          "label": "ds003126",
+          "destination": "https://openneuro.org/datasets/ds003126"
+        },
+        {
+          "label": "ds004786",
+          "destination": "https://openneuro.org/datasets/ds004786"
+        },
+        {
+          "label": "ds001894",
+          "destination": "https://openneuro.org/datasets/ds001894"
+        },
+        {
+          "label": "ds004073",
+          "destination": "https://openneuro.org/datasets/ds004073"
+        },
+        {
+          "label": "ds004229",
+          "destination": "https://openneuro.org/datasets/ds004229"
+        },
+        {
+          "label": "ds003444",
+          "destination": "https://openneuro.org/datasets/ds003444"
+        },
+        {
+          "label": "ds004848",
+          "destination": "https://openneuro.org/datasets/ds004848"
+        },
+        {
+          "label": "ds004196",
+          "destination": "https://openneuro.org/datasets/ds004196"
+        },
+        {
+          "label": "ds004512",
+          "destination": "https://openneuro.org/datasets/ds004512"
+        },
+        {
+          "label": "ds004510",
+          "destination": "https://openneuro.org/datasets/ds004510"
+        },
+        {
+          "label": "ds004279",
+          "destination": "https://openneuro.org/datasets/ds004279"
+        },
+        {
+          "label": "ds002372",
+          "destination": "https://openneuro.org/datasets/ds002372"
+        },
+        {
+          "label": "ds002687",
+          "destination": "https://openneuro.org/datasets/ds002687"
+        },
+        {
+          "label": "ds002424",
+          "destination": "https://openneuro.org/datasets/ds002424"
+        },
+        {
+          "label": "ds003500",
+          "destination": "https://openneuro.org/datasets/ds003500"
+        },
+        {
+          "label": "ds002522",
+          "destination": "https://openneuro.org/datasets/ds002522"
+        },
+        {
+          "label": "ds004141",
+          "destination": "https://openneuro.org/datasets/ds004141"
+        },
+        {
+          "label": "ds004467",
+          "destination": "https://openneuro.org/datasets/ds004467"
+        },
+        {
+          "label": "ds003468",
+          "destination": "https://openneuro.org/datasets/ds003468"
+        },
+        {
+          "label": "ds004840",
+          "destination": "https://openneuro.org/datasets/ds004840"
+        },
+        {
+          "label": "ds000133",
+          "destination": "https://openneuro.org/datasets/ds000133"
+        },
+        {
+          "label": "ds001408",
+          "destination": "https://openneuro.org/datasets/ds001408"
+        },
+        {
+          "label": "ds000214",
+          "destination": "https://openneuro.org/datasets/ds000214"
+        },
+        {
+          "label": "ds004101",
+          "destination": "https://openneuro.org/datasets/ds004101"
+        },
+        {
+          "label": "ds004554",
+          "destination": "https://openneuro.org/datasets/ds004554"
+        },
+        {
+          "label": "ds004595",
+          "destination": "https://openneuro.org/datasets/ds004595"
+        },
+        {
+          "label": "ds000174",
+          "destination": "https://openneuro.org/datasets/ds000174"
+        },
+        {
+          "label": "ds003602",
+          "destination": "https://openneuro.org/datasets/ds003602"
+        },
+        {
+          "label": "ds004515",
+          "destination": "https://openneuro.org/datasets/ds004515"
+        },
+        {
+          "label": "ds002006",
+          "destination": "https://openneuro.org/datasets/ds002006"
+        },
+        {
+          "label": "ds004725",
+          "destination": "https://openneuro.org/datasets/ds004725"
+        },
+        {
+          "label": "ds003800",
+          "destination": "https://openneuro.org/datasets/ds003800"
+        },
+        {
+          "label": "ds004564",
+          "destination": "https://openneuro.org/datasets/ds004564"
+        },
+        {
+          "label": "ds000245",
+          "destination": "https://openneuro.org/datasets/ds000245"
+        },
+        {
+          "label": "ds002893",
+          "destination": "https://openneuro.org/datasets/ds002893"
+        },
+        {
+          "label": "ds001747",
+          "destination": "https://openneuro.org/datasets/ds001747"
+        },
+        {
+          "label": "ds004504",
+          "destination": "https://openneuro.org/datasets/ds004504"
+        },
+        {
+          "label": "ds004000",
+          "destination": "https://openneuro.org/datasets/ds004000"
+        },
+        {
+          "label": "ds003011",
+          "destination": "https://openneuro.org/datasets/ds003011"
+        },
+        {
+          "label": "ds004302",
+          "destination": "https://openneuro.org/datasets/ds004302"
+        },
+        {
+          "label": "ds000115",
+          "destination": "https://openneuro.org/datasets/ds000115"
+        },
+        {
+          "label": "ds004837",
+          "destination": "https://openneuro.org/datasets/ds004837"
+        },
+        {
+          "label": "ds003944",
+          "destination": "https://openneuro.org/datasets/ds003944"
+        },
+        {
+          "label": "ds003947",
+          "destination": "https://openneuro.org/datasets/ds003947"
+        },
+        {
+          "label": "ds001461",
+          "destination": "https://openneuro.org/datasets/ds001461"
+        },
+        {
+          "label": "ds004065",
+          "destination": "https://openneuro.org/datasets/ds004065"
+        },
+        {
+          "label": "ds003831",
+          "destination": "https://openneuro.org/datasets/ds003831"
+        },
+        {
+          "label": "ds000171",
+          "destination": "https://openneuro.org/datasets/ds000171"
+        },
+        {
+          "label": "ds003007",
+          "destination": "https://openneuro.org/datasets/ds003007"
+        },
+        {
+          "label": "ds003799",
+          "destination": "https://openneuro.org/datasets/ds003799"
+        },
+        {
+          "label": "ds004166",
+          "destination": "https://openneuro.org/datasets/ds004166"
+        },
+        {
+          "label": "ds003770",
+          "destination": "https://openneuro.org/datasets/ds003770"
+        },
+        {
+          "label": "ds003653",
+          "destination": "https://openneuro.org/datasets/ds003653"
+        },
+        {
+          "label": "ds003568",
+          "destination": "https://openneuro.org/datasets/ds003568"
+        },
+        {
+          "label": "ds002748",
+          "destination": "https://openneuro.org/datasets/ds002748"
+        },
+        {
+          "label": "ds003709",
+          "destination": "https://openneuro.org/datasets/ds003709"
+        },
+        {
+          "label": "ds003478",
+          "destination": "https://openneuro.org/datasets/ds003478"
+        },
+        {
+          "label": "ds002156",
+          "destination": "https://openneuro.org/datasets/ds002156"
+        },
+        {
+          "label": "ds003474",
+          "destination": "https://openneuro.org/datasets/ds003474"
+        },
+        {
+          "label": "ds004552",
+          "destination": "https://openneuro.org/datasets/ds004552"
+        },
+        {
+          "label": "ds004627",
+          "destination": "https://openneuro.org/datasets/ds004627"
+        },
+        {
+          "label": "ds003701",
+          "destination": "https://openneuro.org/datasets/ds003701"
+        },
+        {
+          "label": "ds004146",
+          "destination": "https://openneuro.org/datasets/ds004146"
+        },
+        {
+          "label": "ds000144",
+          "destination": "https://openneuro.org/datasets/ds000144"
+        }
+      ],
+      "children": [
+        {
+          "label": "developmental disorder of mental health",
+          "iri": "DOID:0060037",
+          "info": [
+            {
+              "label": "ds004186",
+              "destination": "https://openneuro.org/datasets/ds004186"
+            },
+            {
+              "label": "ds004791",
+              "destination": "https://openneuro.org/datasets/ds004791"
+            },
+            {
+              "label": "ds000170",
+              "destination": "https://openneuro.org/datasets/ds000170"
+            },
+            {
+              "label": "ds001486",
+              "destination": "https://openneuro.org/datasets/ds001486"
+            },
+            {
+              "label": "ds002236",
+              "destination": "https://openneuro.org/datasets/ds002236"
+            },
+            {
+              "label": "ds003126",
+              "destination": "https://openneuro.org/datasets/ds003126"
+            },
+            {
+              "label": "ds004786",
+              "destination": "https://openneuro.org/datasets/ds004786"
+            },
+            {
+              "label": "ds001894",
+              "destination": "https://openneuro.org/datasets/ds001894"
+            },
+            {
+              "label": "ds004073",
+              "destination": "https://openneuro.org/datasets/ds004073"
+            },
+            {
+              "label": "ds004229",
+              "destination": "https://openneuro.org/datasets/ds004229"
+            },
+            {
+              "label": "ds003444",
+              "destination": "https://openneuro.org/datasets/ds003444"
+            },
+            {
+              "label": "ds004848",
+              "destination": "https://openneuro.org/datasets/ds004848"
+            },
+            {
+              "label": "ds004196",
+              "destination": "https://openneuro.org/datasets/ds004196"
+            },
+            {
+              "label": "ds004512",
+              "destination": "https://openneuro.org/datasets/ds004512"
+            },
+            {
+              "label": "ds004510",
+              "destination": "https://openneuro.org/datasets/ds004510"
+            },
+            {
+              "label": "ds004279",
+              "destination": "https://openneuro.org/datasets/ds004279"
+            },
+            {
+              "label": "ds002372",
+              "destination": "https://openneuro.org/datasets/ds002372"
+            },
+            {
+              "label": "ds002687",
+              "destination": "https://openneuro.org/datasets/ds002687"
+            },
+            {
+              "label": "ds002424",
+              "destination": "https://openneuro.org/datasets/ds002424"
+            },
+            {
+              "label": "ds003500",
+              "destination": "https://openneuro.org/datasets/ds003500"
+            },
+            {
+              "label": "ds002522",
+              "destination": "https://openneuro.org/datasets/ds002522"
+            },
+            {
+              "label": "ds004141",
+              "destination": "https://openneuro.org/datasets/ds004141"
+            },
+            {
+              "label": "ds004467",
+              "destination": "https://openneuro.org/datasets/ds004467"
+            },
+            {
+              "label": "ds003468",
+              "destination": "https://openneuro.org/datasets/ds003468"
+            }
+          ],
+          "children": [
+            {
+              "label": "specific developmental disorder",
+              "iri": "DOID:0060038",
+              "info": [
+                {
+                  "label": "ds004791",
+                  "destination": "https://openneuro.org/datasets/ds004791"
+                },
+                {
+                  "label": "ds004186",
+                  "destination": "https://openneuro.org/datasets/ds004186"
+                },
+                {
+                  "label": "ds000170",
+                  "destination": "https://openneuro.org/datasets/ds000170"
+                },
+                {
+                  "label": "ds001486",
+                  "destination": "https://openneuro.org/datasets/ds001486"
+                },
+                {
+                  "label": "ds002236",
+                  "destination": "https://openneuro.org/datasets/ds002236"
+                },
+                {
+                  "label": "ds003126",
+                  "destination": "https://openneuro.org/datasets/ds003126"
+                },
+                {
+                  "label": "ds004786",
+                  "destination": "https://openneuro.org/datasets/ds004786"
+                },
+                {
+                  "label": "ds001894",
+                  "destination": "https://openneuro.org/datasets/ds001894"
+                },
+                {
+                  "label": "ds004073",
+                  "destination": "https://openneuro.org/datasets/ds004073"
+                },
+                {
+                  "label": "ds004229",
+                  "destination": "https://openneuro.org/datasets/ds004229"
+                },
+                {
+                  "label": "ds003444",
+                  "destination": "https://openneuro.org/datasets/ds003444"
+                },
+                {
+                  "label": "ds004848",
+                  "destination": "https://openneuro.org/datasets/ds004848"
+                },
+                {
+                  "label": "ds004196",
+                  "destination": "https://openneuro.org/datasets/ds004196"
+                },
+                {
+                  "label": "ds004512",
+                  "destination": "https://openneuro.org/datasets/ds004512"
+                },
+                {
+                  "label": "ds004510",
+                  "destination": "https://openneuro.org/datasets/ds004510"
+                },
+                {
+                  "label": "ds004279",
+                  "destination": "https://openneuro.org/datasets/ds004279"
+                },
+                {
+                  "label": "ds002372",
+                  "destination": "https://openneuro.org/datasets/ds002372"
+                },
+                {
+                  "label": "ds002687",
+                  "destination": "https://openneuro.org/datasets/ds002687"
+                },
+                {
+                  "label": "ds002424",
+                  "destination": "https://openneuro.org/datasets/ds002424"
+                },
+                {
+                  "label": "ds003500",
+                  "destination": "https://openneuro.org/datasets/ds003500"
+                }
+              ],
+              "children": [
+                {
+                  "label": "learning disability",
+                  "iri": "DOID:8927",
+                  "info": [
+                    {
+                      "label": "ds004791",
+                      "destination": "https://openneuro.org/datasets/ds004791"
+                    },
+                    {
+                      "label": "ds004186",
+                      "destination": "https://openneuro.org/datasets/ds004186"
+                    },
+                    {
+                      "label": "ds000170",
+                      "destination": "https://openneuro.org/datasets/ds000170"
+                    },
+                    {
+                      "label": "ds001486",
+                      "destination": "https://openneuro.org/datasets/ds001486"
+                    },
+                    {
+                      "label": "ds002236",
+                      "destination": "https://openneuro.org/datasets/ds002236"
+                    },
+                    {
+                      "label": "ds003126",
+                      "destination": "https://openneuro.org/datasets/ds003126"
+                    },
+                    {
+                      "label": "ds004786",
+                      "destination": "https://openneuro.org/datasets/ds004786"
+                    },
+                    {
+                      "label": "ds001894",
+                      "destination": "https://openneuro.org/datasets/ds001894"
+                    },
+                    {
+                      "label": "ds004073",
+                      "destination": "https://openneuro.org/datasets/ds004073"
+                    },
+                    {
+                      "label": "ds004229",
+                      "destination": "https://openneuro.org/datasets/ds004229"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "reading disorder",
+                      "iri": "DOID:13365",
+                      "info": [
+                        {
+                          "label": "ds002236",
+                          "destination": "https://openneuro.org/datasets/ds002236"
+                        },
+                        {
+                          "label": "ds003126",
+                          "destination": "https://openneuro.org/datasets/ds003126"
+                        },
+                        {
+                          "label": "ds004786",
+                          "destination": "https://openneuro.org/datasets/ds004786"
+                        },
+                        {
+                          "label": "ds001894",
+                          "destination": "https://openneuro.org/datasets/ds001894"
+                        },
+                        {
+                          "label": "ds004073",
+                          "destination": "https://openneuro.org/datasets/ds004073"
+                        },
+                        {
+                          "label": "ds004229",
+                          "destination": "https://openneuro.org/datasets/ds004229"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "dyslexia",
+                          "iri": "DOID:4428",
+                          "info": [
+                            {
+                              "label": "ds003126",
+                              "destination": "https://openneuro.org/datasets/ds003126"
+                            },
+                            {
+                              "label": "ds004786",
+                              "destination": "https://openneuro.org/datasets/ds004786"
+                            },
+                            {
+                              "label": "ds001894",
+                              "destination": "https://openneuro.org/datasets/ds001894"
+                            },
+                            {
+                              "label": "ds002236",
+                              "destination": "https://openneuro.org/datasets/ds002236"
+                            },
+                            {
+                              "label": "ds004073",
+                              "destination": "https://openneuro.org/datasets/ds004073"
+                            },
+                            {
+                              "label": "ds004229",
+                              "destination": "https://openneuro.org/datasets/ds004229"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "communication disorder",
+                  "iri": "DOID:2033",
+                  "info": [
+                    {
+                      "label": "ds003444",
+                      "destination": "https://openneuro.org/datasets/ds003444"
+                    },
+                    {
+                      "label": "ds004848",
+                      "destination": "https://openneuro.org/datasets/ds004848"
+                    },
+                    {
+                      "label": "ds004196",
+                      "destination": "https://openneuro.org/datasets/ds004196"
+                    },
+                    {
+                      "label": "ds004512",
+                      "destination": "https://openneuro.org/datasets/ds004512"
+                    },
+                    {
+                      "label": "ds004510",
+                      "destination": "https://openneuro.org/datasets/ds004510"
+                    },
+                    {
+                      "label": "ds004279",
+                      "destination": "https://openneuro.org/datasets/ds004279"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "agnosia",
+                      "iri": "DOID:4090",
+                      "info": [
+                        {
+                          "label": "ds003444",
+                          "destination": "https://openneuro.org/datasets/ds003444"
+                        },
+                        {
+                          "label": "ds004848",
+                          "destination": "https://openneuro.org/datasets/ds004848"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "prosopagnosia",
+                          "iri": "DOID:4970",
+                          "info": [
+                            {
+                              "label": "ds004848",
+                              "destination": "https://openneuro.org/datasets/ds004848"
+                            },
+                            {
+                              "label": "ds003444",
+                              "destination": "https://openneuro.org/datasets/ds003444"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "label": "language disorder",
+                      "iri": "DOID:93",
+                      "info": [
+                        {
+                          "label": "ds004196",
+                          "destination": "https://openneuro.org/datasets/ds004196"
+                        },
+                        {
+                          "label": "ds004512",
+                          "destination": "https://openneuro.org/datasets/ds004512"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "label": "aphasia",
+                          "iri": "DOID:0060046",
+                          "info": [
+                            {
+                              "label": "ds004196",
+                              "destination": "https://openneuro.org/datasets/ds004196"
+                            },
+                            {
+                              "label": "ds004512",
+                              "destination": "https://openneuro.org/datasets/ds004512"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "label": "speech disorder",
+                      "iri": "DOID:92",
+                      "info": [
+                        {
+                          "label": "ds004510",
+                          "destination": "https://openneuro.org/datasets/ds004510"
+                        },
+                        {
+                          "label": "ds004279",
+                          "destination": "https://openneuro.org/datasets/ds004279"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "label": "attention deficit hyperactivity disorder",
+                  "iri": "DOID:1094",
+                  "info": [
+                    {
+                      "label": "ds002372",
+                      "destination": "https://openneuro.org/datasets/ds002372"
+                    },
+                    {
+                      "label": "ds002687",
+                      "destination": "https://openneuro.org/datasets/ds002687"
+                    },
+                    {
+                      "label": "ds002424",
+                      "destination": "https://openneuro.org/datasets/ds002424"
+                    },
+                    {
+                      "label": "ds003500",
+                      "destination": "https://openneuro.org/datasets/ds003500"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "pervasive developmental disorder",
+              "iri": "DOID:0060040",
+              "info": [
+                {
+                  "label": "ds002522",
+                  "destination": "https://openneuro.org/datasets/ds002522"
+                },
+                {
+                  "label": "ds004141",
+                  "destination": "https://openneuro.org/datasets/ds004141"
+                },
+                {
+                  "label": "ds004467",
+                  "destination": "https://openneuro.org/datasets/ds004467"
+                },
+                {
+                  "label": "ds003468",
+                  "destination": "https://openneuro.org/datasets/ds003468"
+                }
+              ],
+              "children": [
+                {
+                  "label": "autism spectrum disorder",
+                  "iri": "DOID:0060041",
+                  "info": [
+                    {
+                      "label": "ds002522",
+                      "destination": "https://openneuro.org/datasets/ds002522"
+                    },
+                    {
+                      "label": "ds004141",
+                      "destination": "https://openneuro.org/datasets/ds004141"
+                    },
+                    {
+                      "label": "ds004467",
+                      "destination": "https://openneuro.org/datasets/ds004467"
+                    },
+                    {
+                      "label": "ds003468",
+                      "destination": "https://openneuro.org/datasets/ds003468"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "autistic disorder",
+                      "iri": "DOID:12849",
+                      "info": [
+                        {
+                          "label": "ds002522",
+                          "destination": "https://openneuro.org/datasets/ds002522"
+                        },
+                        {
+                          "label": "ds004467",
+                          "destination": "https://openneuro.org/datasets/ds004467"
+                        },
+                        {
+                          "label": "ds004141",
+                          "destination": "https://openneuro.org/datasets/ds004141"
+                        },
+                        {
+                          "label": "ds003468",
+                          "destination": "https://openneuro.org/datasets/ds003468"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "somatoform disorder",
+          "iri": "DOID:4737",
+          "info": [
+            {
+              "label": "ds004840",
+              "destination": "https://openneuro.org/datasets/ds004840"
+            },
+            {
+              "label": "ds000133",
+              "destination": "https://openneuro.org/datasets/ds000133"
+            },
+            {
+              "label": "ds001408",
+              "destination": "https://openneuro.org/datasets/ds001408"
+            },
+            {
+              "label": "ds000214",
+              "destination": "https://openneuro.org/datasets/ds000214"
+            },
+            {
+              "label": "ds004101",
+              "destination": "https://openneuro.org/datasets/ds004101"
+            },
+            {
+              "label": "ds004554",
+              "destination": "https://openneuro.org/datasets/ds004554"
+            }
+          ],
+          "children": []
+        },
+        {
+          "label": "sleep disorder",
+          "iri": "DOID:535",
+          "info": [
+            {
+              "label": "ds000133",
+              "destination": "https://openneuro.org/datasets/ds000133"
+            }
+          ],
+          "children": [
+            {
+              "label": "narcolepsy",
+              "iri": "DOID:8986",
+              "info": [
+                {
+                  "label": "ds000133",
+                  "destination": "https://openneuro.org/datasets/ds000133"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "substance-related disorder",
+          "iri": "DOID:303",
+          "info": [
+            {
+              "label": "ds004595",
+              "destination": "https://openneuro.org/datasets/ds004595"
+            },
+            {
+              "label": "ds000174",
+              "destination": "https://openneuro.org/datasets/ds000174"
+            },
+            {
+              "label": "ds003602",
+              "destination": "https://openneuro.org/datasets/ds003602"
+            },
+            {
+              "label": "ds004515",
+              "destination": "https://openneuro.org/datasets/ds004515"
+            }
+          ],
+          "children": [
+            {
+              "label": "substance abuse",
+              "iri": "DOID:302",
+              "info": [
+                {
+                  "label": "ds004595",
+                  "destination": "https://openneuro.org/datasets/ds004595"
+                },
+                {
+                  "label": "ds000174",
+                  "destination": "https://openneuro.org/datasets/ds000174"
+                },
+                {
+                  "label": "ds003602",
+                  "destination": "https://openneuro.org/datasets/ds003602"
+                },
+                {
+                  "label": "ds004515",
+                  "destination": "https://openneuro.org/datasets/ds004515"
+                }
+              ],
+              "children": [
+                {
+                  "label": "alcohol use disorder",
+                  "iri": "DOID:1574",
+                  "info": [
+                    {
+                      "label": "ds004595",
+                      "destination": "https://openneuro.org/datasets/ds004595"
+                    },
+                    {
+                      "label": "ds000174",
+                      "destination": "https://openneuro.org/datasets/ds000174"
+                    },
+                    {
+                      "label": "ds003602",
+                      "destination": "https://openneuro.org/datasets/ds003602"
+                    },
+                    {
+                      "label": "ds004515",
+                      "destination": "https://openneuro.org/datasets/ds004515"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "personality disorder",
+          "iri": "DOID:1510",
+          "info": [
+            {
+              "label": "ds000214",
+              "destination": "https://openneuro.org/datasets/ds000214"
+            }
+          ],
+          "children": [
+            {
+              "label": "borderline personality disorder",
+              "iri": "DOID:10930",
+              "info": [
+                {
+                  "label": "ds000214",
+                  "destination": "https://openneuro.org/datasets/ds000214"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "cognitive disorder",
+          "iri": "DOID:1561",
+          "info": [
+            {
+              "label": "ds004840",
+              "destination": "https://openneuro.org/datasets/ds004840"
+            },
+            {
+              "label": "ds002006",
+              "destination": "https://openneuro.org/datasets/ds002006"
+            },
+            {
+              "label": "ds004725",
+              "destination": "https://openneuro.org/datasets/ds004725"
+            },
+            {
+              "label": "ds003800",
+              "destination": "https://openneuro.org/datasets/ds003800"
+            },
+            {
+              "label": "ds004564",
+              "destination": "https://openneuro.org/datasets/ds004564"
+            },
+            {
+              "label": "ds000245",
+              "destination": "https://openneuro.org/datasets/ds000245"
+            },
+            {
+              "label": "ds002893",
+              "destination": "https://openneuro.org/datasets/ds002893"
+            },
+            {
+              "label": "ds001747",
+              "destination": "https://openneuro.org/datasets/ds001747"
+            },
+            {
+              "label": "ds004504",
+              "destination": "https://openneuro.org/datasets/ds004504"
+            },
+            {
+              "label": "ds000133",
+              "destination": "https://openneuro.org/datasets/ds000133"
+            },
+            {
+              "label": "ds001408",
+              "destination": "https://openneuro.org/datasets/ds001408"
+            },
+            {
+              "label": "ds000214",
+              "destination": "https://openneuro.org/datasets/ds000214"
+            },
+            {
+              "label": "ds004554",
+              "destination": "https://openneuro.org/datasets/ds004554"
+            },
+            {
+              "label": "ds004000",
+              "destination": "https://openneuro.org/datasets/ds004000"
+            },
+            {
+              "label": "ds003011",
+              "destination": "https://openneuro.org/datasets/ds003011"
+            },
+            {
+              "label": "ds004302",
+              "destination": "https://openneuro.org/datasets/ds004302"
+            },
+            {
+              "label": "ds000115",
+              "destination": "https://openneuro.org/datasets/ds000115"
+            },
+            {
+              "label": "ds004837",
+              "destination": "https://openneuro.org/datasets/ds004837"
+            },
+            {
+              "label": "ds003944",
+              "destination": "https://openneuro.org/datasets/ds003944"
+            },
+            {
+              "label": "ds003947",
+              "destination": "https://openneuro.org/datasets/ds003947"
+            },
+            {
+              "label": "ds001461",
+              "destination": "https://openneuro.org/datasets/ds001461"
+            },
+            {
+              "label": "ds004065",
+              "destination": "https://openneuro.org/datasets/ds004065"
+            },
+            {
+              "label": "ds003831",
+              "destination": "https://openneuro.org/datasets/ds003831"
+            },
+            {
+              "label": "ds000171",
+              "destination": "https://openneuro.org/datasets/ds000171"
+            },
+            {
+              "label": "ds003007",
+              "destination": "https://openneuro.org/datasets/ds003007"
+            },
+            {
+              "label": "ds003799",
+              "destination": "https://openneuro.org/datasets/ds003799"
+            },
+            {
+              "label": "ds004166",
+              "destination": "https://openneuro.org/datasets/ds004166"
+            },
+            {
+              "label": "ds003770",
+              "destination": "https://openneuro.org/datasets/ds003770"
+            },
+            {
+              "label": "ds003653",
+              "destination": "https://openneuro.org/datasets/ds003653"
+            },
+            {
+              "label": "ds003568",
+              "destination": "https://openneuro.org/datasets/ds003568"
+            },
+            {
+              "label": "ds002748",
+              "destination": "https://openneuro.org/datasets/ds002748"
+            },
+            {
+              "label": "ds004101",
+              "destination": "https://openneuro.org/datasets/ds004101"
+            },
+            {
+              "label": "ds003709",
+              "destination": "https://openneuro.org/datasets/ds003709"
+            },
+            {
+              "label": "ds003478",
+              "destination": "https://openneuro.org/datasets/ds003478"
+            },
+            {
+              "label": "ds002156",
+              "destination": "https://openneuro.org/datasets/ds002156"
+            },
+            {
+              "label": "ds003474",
+              "destination": "https://openneuro.org/datasets/ds003474"
+            },
+            {
+              "label": "ds004552",
+              "destination": "https://openneuro.org/datasets/ds004552"
+            },
+            {
+              "label": "ds004627",
+              "destination": "https://openneuro.org/datasets/ds004627"
+            },
+            {
+              "label": "ds003701",
+              "destination": "https://openneuro.org/datasets/ds003701"
+            },
+            {
+              "label": "ds004146",
+              "destination": "https://openneuro.org/datasets/ds004146"
+            },
+            {
+              "label": "ds000144",
+              "destination": "https://openneuro.org/datasets/ds000144"
+            }
+          ],
+          "children": [
+            {
+              "label": "dementia",
+              "iri": "DOID:1307",
+              "info": [
+                {
+                  "label": "ds003800",
+                  "destination": "https://openneuro.org/datasets/ds003800"
+                },
+                {
+                  "label": "ds004564",
+                  "destination": "https://openneuro.org/datasets/ds004564"
+                },
+                {
+                  "label": "ds000245",
+                  "destination": "https://openneuro.org/datasets/ds000245"
+                },
+                {
+                  "label": "ds002893",
+                  "destination": "https://openneuro.org/datasets/ds002893"
+                },
+                {
+                  "label": "ds001747",
+                  "destination": "https://openneuro.org/datasets/ds001747"
+                },
+                {
+                  "label": "ds004504",
+                  "destination": "https://openneuro.org/datasets/ds004504"
+                }
+              ],
+              "children": [
+                {
+                  "label": "frontotemporal dementia",
+                  "iri": "DOID:9255",
+                  "info": [
+                    {
+                      "label": "ds004504",
+                      "destination": "https://openneuro.org/datasets/ds004504"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "psychotic disorder",
+              "iri": "DOID:2468",
+              "info": [
+                {
+                  "label": "ds004840",
+                  "destination": "https://openneuro.org/datasets/ds004840"
+                },
+                {
+                  "label": "ds000133",
+                  "destination": "https://openneuro.org/datasets/ds000133"
+                },
+                {
+                  "label": "ds001408",
+                  "destination": "https://openneuro.org/datasets/ds001408"
+                },
+                {
+                  "label": "ds000214",
+                  "destination": "https://openneuro.org/datasets/ds000214"
+                },
+                {
+                  "label": "ds004554",
+                  "destination": "https://openneuro.org/datasets/ds004554"
+                },
+                {
+                  "label": "ds004000",
+                  "destination": "https://openneuro.org/datasets/ds004000"
+                },
+                {
+                  "label": "ds003011",
+                  "destination": "https://openneuro.org/datasets/ds003011"
+                },
+                {
+                  "label": "ds004302",
+                  "destination": "https://openneuro.org/datasets/ds004302"
+                },
+                {
+                  "label": "ds000115",
+                  "destination": "https://openneuro.org/datasets/ds000115"
+                },
+                {
+                  "label": "ds004837",
+                  "destination": "https://openneuro.org/datasets/ds004837"
+                },
+                {
+                  "label": "ds003944",
+                  "destination": "https://openneuro.org/datasets/ds003944"
+                },
+                {
+                  "label": "ds003947",
+                  "destination": "https://openneuro.org/datasets/ds003947"
+                },
+                {
+                  "label": "ds001461",
+                  "destination": "https://openneuro.org/datasets/ds001461"
+                }
+              ],
+              "children": [
+                {
+                  "label": "schizophrenia",
+                  "iri": "DOID:5419",
+                  "info": [
+                    {
+                      "label": "ds004000",
+                      "destination": "https://openneuro.org/datasets/ds004000"
+                    },
+                    {
+                      "label": "ds003011",
+                      "destination": "https://openneuro.org/datasets/ds003011"
+                    },
+                    {
+                      "label": "ds000214",
+                      "destination": "https://openneuro.org/datasets/ds000214"
+                    },
+                    {
+                      "label": "ds004302",
+                      "destination": "https://openneuro.org/datasets/ds004302"
+                    },
+                    {
+                      "label": "ds000115",
+                      "destination": "https://openneuro.org/datasets/ds000115"
+                    },
+                    {
+                      "label": "ds004837",
+                      "destination": "https://openneuro.org/datasets/ds004837"
+                    },
+                    {
+                      "label": "ds003944",
+                      "destination": "https://openneuro.org/datasets/ds003944"
+                    },
+                    {
+                      "label": "ds003947",
+                      "destination": "https://openneuro.org/datasets/ds003947"
+                    },
+                    {
+                      "label": "ds001461",
+                      "destination": "https://openneuro.org/datasets/ds001461"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "mood disorder",
+              "iri": "DOID:3324",
+              "info": [
+                {
+                  "label": "ds004065",
+                  "destination": "https://openneuro.org/datasets/ds004065"
+                },
+                {
+                  "label": "ds003831",
+                  "destination": "https://openneuro.org/datasets/ds003831"
+                },
+                {
+                  "label": "ds000171",
+                  "destination": "https://openneuro.org/datasets/ds000171"
+                },
+                {
+                  "label": "ds003007",
+                  "destination": "https://openneuro.org/datasets/ds003007"
+                },
+                {
+                  "label": "ds003799",
+                  "destination": "https://openneuro.org/datasets/ds003799"
+                },
+                {
+                  "label": "ds004166",
+                  "destination": "https://openneuro.org/datasets/ds004166"
+                },
+                {
+                  "label": "ds003770",
+                  "destination": "https://openneuro.org/datasets/ds003770"
+                },
+                {
+                  "label": "ds003653",
+                  "destination": "https://openneuro.org/datasets/ds003653"
+                },
+                {
+                  "label": "ds003568",
+                  "destination": "https://openneuro.org/datasets/ds003568"
+                },
+                {
+                  "label": "ds000245",
+                  "destination": "https://openneuro.org/datasets/ds000245"
+                },
+                {
+                  "label": "ds002748",
+                  "destination": "https://openneuro.org/datasets/ds002748"
+                },
+                {
+                  "label": "ds004101",
+                  "destination": "https://openneuro.org/datasets/ds004101"
+                },
+                {
+                  "label": "ds003709",
+                  "destination": "https://openneuro.org/datasets/ds003709"
+                },
+                {
+                  "label": "ds003478",
+                  "destination": "https://openneuro.org/datasets/ds003478"
+                },
+                {
+                  "label": "ds002156",
+                  "destination": "https://openneuro.org/datasets/ds002156"
+                },
+                {
+                  "label": "ds003474",
+                  "destination": "https://openneuro.org/datasets/ds003474"
+                },
+                {
+                  "label": "ds004552",
+                  "destination": "https://openneuro.org/datasets/ds004552"
+                },
+                {
+                  "label": "ds004627",
+                  "destination": "https://openneuro.org/datasets/ds004627"
+                },
+                {
+                  "label": "ds003701",
+                  "destination": "https://openneuro.org/datasets/ds003701"
+                },
+                {
+                  "label": "ds004146",
+                  "destination": "https://openneuro.org/datasets/ds004146"
+                }
+              ],
+              "children": [
+                {
+                  "label": "depressive disorder",
+                  "iri": "DOID:1596",
+                  "info": [
+                    {
+                      "label": "ds000171",
+                      "destination": "https://openneuro.org/datasets/ds000171"
+                    },
+                    {
+                      "label": "ds003007",
+                      "destination": "https://openneuro.org/datasets/ds003007"
+                    },
+                    {
+                      "label": "ds003799",
+                      "destination": "https://openneuro.org/datasets/ds003799"
+                    },
+                    {
+                      "label": "ds004166",
+                      "destination": "https://openneuro.org/datasets/ds004166"
+                    },
+                    {
+                      "label": "ds003770",
+                      "destination": "https://openneuro.org/datasets/ds003770"
+                    },
+                    {
+                      "label": "ds003653",
+                      "destination": "https://openneuro.org/datasets/ds003653"
+                    },
+                    {
+                      "label": "ds003568",
+                      "destination": "https://openneuro.org/datasets/ds003568"
+                    },
+                    {
+                      "label": "ds000245",
+                      "destination": "https://openneuro.org/datasets/ds000245"
+                    },
+                    {
+                      "label": "ds002748",
+                      "destination": "https://openneuro.org/datasets/ds002748"
+                    },
+                    {
+                      "label": "ds004101",
+                      "destination": "https://openneuro.org/datasets/ds004101"
+                    },
+                    {
+                      "label": "ds003709",
+                      "destination": "https://openneuro.org/datasets/ds003709"
+                    },
+                    {
+                      "label": "ds003478",
+                      "destination": "https://openneuro.org/datasets/ds003478"
+                    },
+                    {
+                      "label": "ds002156",
+                      "destination": "https://openneuro.org/datasets/ds002156"
+                    },
+                    {
+                      "label": "ds003474",
+                      "destination": "https://openneuro.org/datasets/ds003474"
+                    },
+                    {
+                      "label": "ds004552",
+                      "destination": "https://openneuro.org/datasets/ds004552"
+                    },
+                    {
+                      "label": "ds004627",
+                      "destination": "https://openneuro.org/datasets/ds004627"
+                    },
+                    {
+                      "label": "ds003701",
+                      "destination": "https://openneuro.org/datasets/ds003701"
+                    },
+                    {
+                      "label": "ds004146",
+                      "destination": "https://openneuro.org/datasets/ds004146"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "label": "major depressive disorder",
+                      "iri": "DOID:1470",
+                      "info": [
+                        {
+                          "label": "ds000171",
+                          "destination": "https://openneuro.org/datasets/ds000171"
+                        },
+                        {
+                          "label": "ds004166",
+                          "destination": "https://openneuro.org/datasets/ds004166"
+                        },
+                        {
+                          "label": "ds003653",
+                          "destination": "https://openneuro.org/datasets/ds003653"
+                        },
+                        {
+                          "label": "ds003568",
+                          "destination": "https://openneuro.org/datasets/ds003568"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "anxiety disorder",
+              "iri": "DOID:2030",
+              "info": [
+                {
+                  "label": "ds004101",
+                  "destination": "https://openneuro.org/datasets/ds004101"
+                },
+                {
+                  "label": "ds000144",
+                  "destination": "https://openneuro.org/datasets/ds000144"
+                },
+                {
+                  "label": "ds004146",
+                  "destination": "https://openneuro.org/datasets/ds004146"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
