@@ -27,6 +27,7 @@
       width: 35%;
       background-color: #f1f1f1;
     }
+
     /* Styling for the tree and its nodes */
     ul {
       list-style-type: none;
@@ -44,18 +45,35 @@
       background-color: #e0e0e0;
     }
     .highlight {
-      background-color: #cce5ff;
+      background-color: #cce5ff; /* highlight color */
     }
     .dataset-label {
       cursor: pointer;
       color: blue;
       text-decoration: underline;
     }
-    /* Dropdown styling */
+
+    /* Dropdown and search bar styling */
     #tree-selector {
       width: 100%;
       margin-bottom: 10px;
     }
+    #search-bar {
+      display: flex;
+      margin-bottom: 10px;
+    }
+    #search-input {
+      flex: 1;
+      padding: 4px;
+      font-size: 1em;
+    }
+    #search-button {
+      margin-left: 5px;
+      padding: 4px 10px;
+      cursor: pointer;
+      font-size: 1em;
+    }
+
     /* Styling for the copy button */
     #copy-btn {
       margin-left: 10px;
@@ -67,7 +85,7 @@
 </head>
 <body>
   <div id="container">
-    <!-- Left Panel: Dropdown and Ontology Tree -->
+    <!-- Left Panel: Dropdown, Search Bar, and Ontology Tree -->
     <div id="left-panel" class="panel">
       <h3>Select Ontology</h3>
       <select id="tree-selector">
@@ -75,6 +93,13 @@
           <option value="{{ tree_name }}">{{ tree_name }}</option>
         {% endfor %}
       </select>
+
+      <!-- Search Bar -->
+      <div id="search-bar">
+        <input type="text" id="search-input" placeholder="Search concept...">
+        <button id="search-button">Search</button>
+      </div>
+
       <h3>Ontology Concept Hierarchy</h3>
       <ul id="tree-container">
         <!-- Tree will be dynamically injected here -->
@@ -105,12 +130,12 @@
 
     /**
      * Recursively builds a tree structure from a JSON node.
-     * Returns a DOM <li> dataset representing the node.
+     * Returns a DOM <li> element representing the node.
      */
     function buildTree(node) {
       var li = document.createElement("li");
       li.setAttribute("data-node-id", node.id);
-      
+
       var span = document.createElement("span");
       span.classList.add("folder-label");
       span.textContent = node.label;
@@ -119,10 +144,10 @@
       // Attach click event to the folder label.
       span.addEventListener("click", function(e) {
         e.stopPropagation();
-        // Remove highlight from all folder nodes.
+        // Remove highlight from all folder nodes (but not from search-based highlight if you want them to remain).
         var allLi = document.querySelectorAll("#tree-container li");
         allLi.forEach(function(item) {
-          item.classList.remove("highlight");
+          // item.classList.remove("highlight"); // <-- If you want to keep search highlights, comment this out
         });
         li.classList.add("highlight");
 
@@ -135,7 +160,7 @@
             childUl.style.display = "none";
           }
         }
-        // Update folder contents.
+        // Update middle panel (datasets).
         updateFolderContents(node);
       });
 
@@ -204,7 +229,6 @@
     /**
      * Updates the right panel with the selected dataset's details.
      * Adds a "Copy" button next to the destination that copies the path to the clipboard.
-     * Instead of showing a pop-up, the button text temporarily changes to "Copied!".
      */
     function updateFileDetails(dataset) {
       var detailsDiv = document.getElementById("dataset-details");
@@ -229,7 +253,43 @@
       });
     }
 
-    // When the DOM is fully loaded, render the initial tree and attach dropdown listeners.
+    /**
+     * Highlights nodes in the current tree whose labels match the query.
+     * Automatically expands parent ULs so that the highlighted node is visible.
+     */
+    function highlightSearchResults(query) {
+      // Remove highlight from all nodes first.
+      var allLi = document.querySelectorAll("#tree-container li");
+      allLi.forEach(function(li) {
+        li.classList.remove("highlight");
+      });
+
+      if (!query) {
+        return; // If query is empty, nothing more to do.
+      }
+
+      // Case-insensitive substring search
+      allLi.forEach(function(li) {
+        var labelElement = li.querySelector(".folder-label");
+        if (labelElement) {
+          var labelText = labelElement.textContent.toLowerCase();
+          if (labelText.includes(query.toLowerCase())) {
+            // Highlight this node
+            li.classList.add("highlight");
+            // Expand all ancestor ULs so this node is visible
+            let parentEl = li.parentElement;
+            while (parentEl && parentEl.id !== "tree-container") {
+              if (parentEl.tagName === "UL") {
+                parentEl.style.display = "block";
+              }
+              parentEl = parentEl.parentElement;
+            }
+          }
+        }
+      });
+    }
+
+    // When the DOM is fully loaded, render the initial tree and attach listeners.
     document.addEventListener("DOMContentLoaded", function() {
       var treeSelector = document.getElementById("tree-selector");
       // Render the tree based on the initial dropdown selection.
@@ -239,6 +299,22 @@
       treeSelector.addEventListener("change", function() {
         var selectedTreeName = this.value;
         renderTree(allTrees[selectedTreeName]);
+      });
+
+      // Attach a listener to the search button and the input (for Enter key).
+      var searchInput = document.getElementById("search-input");
+      var searchButton = document.getElementById("search-button");
+
+      searchButton.addEventListener("click", function() {
+        highlightSearchResults(searchInput.value.trim());
+      });
+
+      // Optional: Press Enter to search
+      searchInput.addEventListener("keydown", function(e) {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          highlightSearchResults(searchInput.value.trim());
+        }
       });
     });
   </script>
